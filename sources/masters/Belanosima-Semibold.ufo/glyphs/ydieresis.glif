@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis" format="2">
+  <advance width="1102"/>
+  <unicode hex="00FF"/>
+  <anchor x="912" y="-28" name="bottom"/>
+  <anchor x="576" y="1365" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="dieresiscomb" xOffset="80" yOffset="13"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>y+dieresiscomb</string>
+  </dict>
+  </lib>
+</glyph>

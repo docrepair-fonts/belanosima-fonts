@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute" format="2">
+  <advance width="672"/>
+  <unicode hex="00ED"/>
+  <anchor x="298" y="0" name="bottom"/>
+  <anchor x="790" y="22" name="ogonek"/>
+  <anchor x="210" y="1420" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="acutecomb" xOffset="266" yOffset="65"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>idotless+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

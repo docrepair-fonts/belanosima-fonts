@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.case" format="2">
+  <advance width="278"/>
+  <anchor x="361" y="1228" name="_top"/>
+  <anchor x="228" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="218" y="1281" type="curve" smooth="yes"/>
+      <point x="361" y="1281" type="line" smooth="yes"/>
+      <point x="396" y="1281"/>
+      <point x="424" y="1293"/>
+      <point x="424" y="1332" type="curve" smooth="yes"/>
+      <point x="424" y="1365"/>
+      <point x="397" y="1487"/>
+      <point x="388" y="1526" type="curve" smooth="yes"/>
+      <point x="381" y="1559"/>
+      <point x="363" y="1576"/>
+      <point x="328" y="1576" type="curve" smooth="yes"/>
+      <point x="52" y="1576" type="line" smooth="yes"/>
+      <point x="29" y="1576"/>
+      <point x="-35" y="1575"/>
+      <point x="-35" y="1540" type="curve" smooth="yes"/>
+      <point x="-35" y="1516"/>
+      <point x="-7" y="1487"/>
+      <point x="8" y="1471" type="curve" smooth="yes"/>
+      <point x="63" y="1414"/>
+      <point x="117" y="1355"/>
+      <point x="173" y="1299" type="curve"/>
+      <point x="186" y="1287"/>
+      <point x="200" y="1281"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+  <real>317</real>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>aa49130169350828aa7b7949dbe02e4f9a1f0979e8c7ecc77af0b5fae95845e9d75028bb917429bdc1f2520c4ef58e1a1eabe69681101281017278bafbe5b968</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1393 323</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

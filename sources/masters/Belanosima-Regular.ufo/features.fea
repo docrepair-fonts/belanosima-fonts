@@ -1,0 +1,14 @@
+#> classes
+#/> tags
+@mux_fig = [eight five four nine one seven six three two zero];
+@mux_lc = [a aacute acircumflex adieresis ae agrave aring atilde b c caron ccedilla circumflex d e eacute ecircumflex edieresis egrave eth f fi fl florin g germandbls h i iacute icircumflex idieresis idotless igrave j k l lslash m mu n ntilde o oacute ocircumflex odieresis oe ograve ordfeminine ordmasculine oslash otilde p pi q r s scaron t thorn u uacute ucircumflex udieresis ugrave v w x y yacute ydieresis z zcaron];
+@mux_ot = [.notdef acute acutecomb acutecomb.case ampersand approxequal asciicircum asciitilde asterisk at backslash bar braceleft braceright bracketleft bracketright breve brokenbar bullet caroncomb caroncomb.case cedilla cedillacomb cedillacomb.case cent circumflexcomb circumflexcomb.case colon comma copyright currency dagger daggerdbl degree dieresis dieresiscomb dieresiscomb.case divide dollar dotaccent dotaccentcomb ellipsis emdash endash equal euro exclam exclamdown foursuperior fraction grave gravecomb gravecomb.case greater greaterequal guillemetleft guillemetright guilsinglleft guilsinglright hungarumlaut hyphen infinity integral less lessequal logicalnot lozenge macron minus multiply nbspace notequal numbersign ogonek onehalf onequarter onesuperior paragraph parenleft parenright percent period periodcentered perthousand plus plusminus product question questiondown quotedbl quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase quotesingle radical registered ring ringcomb ringcomb.case section semicolon slash space sterling strokeshortcomb summation threequarters threesuperior tilde tildecomb tildecomb.case trademark twosuperior underscore yen];
+@mux_uc = [A AE Aacute Acircumflex Adieresis Agrave Aring Atilde B C Ccedilla D Delta E Eacute Ecircumflex Edieresis Egrave Eth F G H I Iacute Icircumflex Idieresis Igrave J K L Lslash M N Ntilde O OE Oacute Ocircumflex Odieresis Ograve Oslash Otilde P Q R S Scaron T Thorn U Uacute Ucircumflex Udieresis Ugrave V W X Y Yacute Ydieresis Z Zcaron];
+#/< tags
+#< classes
+
+#> languagesystem
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem grek dflt;
+#< languagesystem

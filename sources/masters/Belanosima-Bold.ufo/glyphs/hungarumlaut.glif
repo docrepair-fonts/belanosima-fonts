@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="799"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="489" y="1355" type="line"/>
+      <point x="65" y="1355" type="line" smooth="yes"/>
+      <point x="35" y="1355"/>
+      <point x="17" y="1341"/>
+      <point x="7" y="1314" type="curve" smooth="yes"/>
+      <point x="-6" y="1280"/>
+      <point x="-61" y="1134"/>
+      <point x="-61" y="1108" type="curve" smooth="yes"/>
+      <point x="-61" y="1070"/>
+      <point x="-27" y="1062"/>
+      <point x="4" y="1062" type="curve" smooth="yes"/>
+      <point x="135" y="1062" type="line" smooth="yes"/>
+      <point x="151" y="1062"/>
+      <point x="164" y="1068"/>
+      <point x="176" y="1078" type="curve" smooth="yes"/>
+      <point x="207" y="1105"/>
+      <point x="415" y="1297"/>
+      <point x="433" y="1297" type="curve" smooth="yes"/>
+      <point x="438" y="1297"/>
+      <point x="440" y="1292"/>
+      <point x="440" y="1288" type="curve" smooth="yes"/>
+      <point x="440" y="1243"/>
+      <point x="380" y="1151"/>
+      <point x="380" y="1101" type="curve" smooth="yes"/>
+      <point x="380" y="1063"/>
+      <point x="415" y="1055"/>
+      <point x="446" y="1055" type="curve" smooth="yes"/>
+      <point x="576" y="1055" type="line" smooth="yes"/>
+      <point x="592" y="1055"/>
+      <point x="605" y="1061"/>
+      <point x="617" y="1071" type="curve" smooth="yes"/>
+      <point x="682" y="1126"/>
+      <point x="745" y="1183"/>
+      <point x="809" y="1240" type="curve" smooth="yes"/>
+      <point x="826" y="1255"/>
+      <point x="863" y="1288"/>
+      <point x="863" y="1314" type="curve" smooth="yes"/>
+      <point x="863" y="1349"/>
+      <point x="791" y="1349"/>
+      <point x="769" y="1349" type="curve" smooth="yes"/>
+      <point x="486" y="1349" type="line"/>
+      <point x="487" y="1353" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f966a5ce24c2cb47e3c1de42e788316152604e682661dd63bb4ad1d9b1bd4968fd9eaa6a33825bf5106d04349a9a3e7f2825bf70656e30ce9a952cfe2e126e14</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1527 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

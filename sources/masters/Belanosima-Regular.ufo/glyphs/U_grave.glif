@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ugrave" format="2">
+  <advance width="1352"/>
+  <unicode hex="00D9"/>
+  <anchor x="677" y="0" name="bottom"/>
+  <anchor x="988" y="20" name="ogonek"/>
+  <anchor x="1223" y="1485" name="topright"/>
+  <anchor x="549" y="1849" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="gravecomb.case" xOffset="263" yOffset="295"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+gravecomb.case</string>
+  </dict>
+  </lib>
+</glyph>

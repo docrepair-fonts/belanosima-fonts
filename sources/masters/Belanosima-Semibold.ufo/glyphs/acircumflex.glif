@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acircumflex" format="2">
+  <advance width="1204"/>
+  <unicode hex="00E2"/>
+  <anchor x="616" y="0" name="bottom"/>
+  <anchor x="1317" y="22" name="ogonek"/>
+  <anchor x="665" y="1496" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="circumflexcomb" xOffset="201" yOffset="71"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+circumflexcomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edieresis" format="2">
+  <advance width="1210"/>
+  <unicode hex="00CB"/>
+  <anchor x="633" y="0" name="bottom"/>
+  <anchor x="964" y="19" name="ogonek"/>
+  <anchor x="122" y="1374" name="topleft"/>
+  <anchor x="633" y="1874" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="dieresiscomb.case" xOffset="146" yOffset="158"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+dieresiscomb.case</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis tag="wght" maximum="388.988" name="weight" minimum="252.169" default="252.169">
+   <labelname xml:lang="en">Weight</labelname>
+   <map input="252.169" output="434"/>
+  </axis>
+  <axis tag="wdth" maximum="200" name="width" minimum="1" default="1">
+   <labelname xml:lang="en">Width</labelname>
+   <map input="1" output="1"/>
+   <map input="200" output="300"/>
+  </axis>
+ </axes>
+ <sources>
+  <source filename="masters/Belanosima-Bold.ufo" stylename="Bold" familyname="Belanosima" name="Bold">
+   <location>
+    <dimension name="weight" xvalue="434"/>
+    <dimension name="width" xvalue="1"/>
+   </location>
+  </source>
+  <source filename="masters/Belanosima-Regular.ufo" stylename="Regular" familyname="Belanosima" name="Regular">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="229"/>
+    <dimension name="width" xvalue="1"/>
+   </location>
+  </source>
+  <source filename="masters/Belanosima-Semibold.ufo" stylename="Semi Bold" familyname="Belanosima" name="Semibold">
+   <location>
+    <dimension name="weight" xvalue="328"/>
+    <dimension name="width" xvalue="1"/>
+   </location>
+  </source>
+ </sources>
+ <lib>
+  <dict>
+   <key>com.github.googlei18n.ufo2ft.featureWriters</key>
+   <array>
+    <dict>
+     <key>class</key>
+     <string>KernFeatureWriter</string>
+     <key>options</key>
+     <dict>
+      <key>mode</key>
+      <string>skip</string>
+     </dict>
+    </dict>
+   </array>
+   <key>org.docrepair-fonts</key>
+   <dict>
+    <key>masters</key>
+    <array>
+     <string>mux_Regular</string>
+     <string>mux_Semibold</string>
+     <string>mux_Bold</string>
+     <string>mux_RegularXCond</string>
+     <string>mux_SemiboldXCond</string>
+     <string>mux_BoldXCond</string>
+     <string>mux_RegularCond</string>
+     <string>mux_SemiboldCond</string>
+     <string>mux_BoldCond</string>
+     <string>mux_RegularXWide</string>
+     <string>mux_SemiboldXWide</string>
+     <string>mux_BoldXWide</string>
+     <string>mux_RegularWide</string>
+     <string>mux_SemiboldWide</string>
+     <string>mux_BoldWide</string>
+    </array>
+    <key>vaxis</key>
+    <array>
+     <string>src_Thin</string>
+     <string>src_Light</string>
+     <string>src_Bold</string>
+     <string>src_Black</string>
+    </array>
+   </dict>
+   <key>org.docrepair-fonts.fit</key>
+   <dict>
+    <key>Bold</key>
+    <string>mux_Semibold</string>
+    <key>Regular</key>
+    <string>mux_Regular</string>
+    <key>Semibold</key>
+    <string>mux_Semibold</string>
+   </dict>
+  </dict>
+ </lib>
+ <instances>
+  <instance filename="instances/Belanosima-Regular.ufo" stylename="Regular" familyname="Belanosima" name="Regular">
+   <location>
+    <dimension name="width" xvalue="1"/>
+    <dimension name="weight" xvalue="229"/>
+   </location>
+  </instance>
+  <instance filename="instances/Belanosima-SemiBold.ufo" stylename="Semi Bold" familyname="Belanosima" name="SemiBold">
+   <location>
+    <dimension name="width" xvalue="1"/>
+    <dimension name="weight" xvalue="328"/>
+   </location>
+  </instance>
+  <instance filename="instances/Belanosima-Bold.ufo" stylename="Bold" familyname="Belanosima" name="Bold">
+   <location>
+    <dimension name="width" xvalue="1"/>
+    <dimension name="weight" xvalue="434"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

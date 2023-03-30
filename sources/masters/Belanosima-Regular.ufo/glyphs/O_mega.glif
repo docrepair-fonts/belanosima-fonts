@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega" format="2">
+  <advance width="1056"/>
+  <unicode hex="03A9"/>
+  <anchor x="1035" y="0" name="bottom"/>
+  <anchor x="1035" y="840" name="center"/>
+  <anchor x="1264" y="24" name="ogonek"/>
+  <anchor x="1035" y="1680" name="top"/>
+  <anchor x="59" y="1679" name="topleft"/>
+  <anchor x="1266" y="1976" name="topright"/>
+</glyph>

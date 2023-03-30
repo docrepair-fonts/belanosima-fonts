@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis" format="2">
+  <advance width="1538"/>
+  <unicode hex="00D6"/>
+  <anchor x="769" y="0" name="bottom"/>
+  <anchor x="769" y="714" name="center"/>
+  <anchor x="1154" y="20" name="ogonek"/>
+  <anchor x="21" y="1427" name="topleft"/>
+  <anchor x="894" y="1616" name="topright"/>
+  <anchor x="769" y="1854" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="dieresiscomb.case" xOffset="261" yOffset="205"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+dieresiscomb.case</string>
+  </dict>
+  </lib>
+</glyph>

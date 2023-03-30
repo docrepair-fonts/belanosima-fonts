@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb.case" format="2">
+  <advance width="411"/>
+  <anchor x="487" y="1282" name="_top"/>
+  <anchor x="487" y="1716" name="top"/>
+  <outline>
+    <contour>
+      <point x="269" y="1306" type="curve" smooth="yes"/>
+      <point x="391" y="1306"/>
+      <point x="440" y="1421"/>
+      <point x="464" y="1421" type="curve" smooth="yes"/>
+      <point x="489" y="1421"/>
+      <point x="532" y="1306"/>
+      <point x="658" y="1306" type="curve" smooth="yes"/>
+      <point x="770" y="1306"/>
+      <point x="857" y="1411"/>
+      <point x="857" y="1518" type="curve" smooth="yes"/>
+      <point x="857" y="1618"/>
+      <point x="772" y="1716"/>
+      <point x="669" y="1716" type="curve" smooth="yes"/>
+      <point x="542" y="1716"/>
+      <point x="492" y="1595"/>
+      <point x="467" y="1595" type="curve" smooth="yes"/>
+      <point x="442" y="1595"/>
+      <point x="394" y="1716"/>
+      <point x="271" y="1716" type="curve" smooth="yes"/>
+      <point x="165" y="1716"/>
+      <point x="74" y="1617"/>
+      <point x="74" y="1513" type="curve" smooth="yes"/>
+      <point x="74" y="1405"/>
+      <point x="157" y="1306"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+  <real>461</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>09a36fd77e7e9fd898fb0a87a4a0685d3275c13b1e3bc12f565ff9761fc3f6aeed44bae9d9d061aa929c87c81fef762af0f52604d6dcb831f68553fda2b7d6ea</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1460 347</string>
+          <string>vstem 83 340</string>
+          <string>vstem 562 340</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

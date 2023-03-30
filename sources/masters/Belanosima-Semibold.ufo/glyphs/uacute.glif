@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uacute" format="2">
+  <advance width="1194"/>
+  <unicode hex="00FA"/>
+  <anchor x="597" y="0" name="bottom"/>
+  <anchor x="1336" y="22" name="ogonek"/>
+  <anchor x="1091" y="971" name="topright"/>
+  <anchor x="608" y="1393" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="acutecomb" xOffset="343" yOffset="71"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

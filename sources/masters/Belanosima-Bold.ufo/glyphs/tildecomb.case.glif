@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb.case" format="2">
+  <advance width="406"/>
+  <anchor x="321" y="1791" name="_top"/>
+  <anchor x="321" y="2394" name="top"/>
+  <outline>
+    <contour>
+      <point x="714" y="2238" type="curve" smooth="yes"/>
+      <point x="714" y="2281"/>
+      <point x="709" y="2315"/>
+      <point x="657" y="2315" type="curve" smooth="yes"/>
+      <point x="560" y="2314" type="line" smooth="yes"/>
+      <point x="524" y="2314"/>
+      <point x="504" y="2302"/>
+      <point x="504" y="2264" type="curve" smooth="yes"/>
+      <point x="504" y="2253"/>
+      <point x="506" y="2240"/>
+      <point x="506" y="2229" type="curve" smooth="yes"/>
+      <point x="506" y="2211"/>
+      <point x="503" y="2190"/>
+      <point x="480" y="2190" type="curve" smooth="yes"/>
+      <point x="435" y="2190"/>
+      <point x="327" y="2329"/>
+      <point x="227" y="2329" type="curve" smooth="yes"/>
+      <point x="55" y="2329"/>
+      <point x="-36" y="2197"/>
+      <point x="-36" y="2036" type="curve" smooth="yes"/>
+      <point x="-36" y="1990"/>
+      <point x="-34" y="1951"/>
+      <point x="23" y="1951" type="curve" smooth="yes"/>
+      <point x="53" y="1951"/>
+      <point x="82" y="1952"/>
+      <point x="112" y="1952" type="curve" smooth="yes"/>
+      <point x="147" y="1952"/>
+      <point x="164" y="1962"/>
+      <point x="164" y="1999" type="curve" smooth="yes"/>
+      <point x="164" y="2006"/>
+      <point x="163" y="2014"/>
+      <point x="163" y="2021" type="curve" smooth="yes"/>
+      <point x="163" y="2045"/>
+      <point x="172" y="2068"/>
+      <point x="200" y="2068" type="curve" smooth="yes"/>
+      <point x="241" y="2068"/>
+      <point x="339" y="1942"/>
+      <point x="478" y="1942" type="curve" smooth="yes"/>
+      <point x="629" y="1942"/>
+      <point x="714" y="2104"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+  <real>511</real>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1e7d9f51cd8afdd9d8d1a6907a50cdd7a24f7b90012d968ad071ff652b0f1130a7413ce7dacd20a18eb5fdcc82fb614642a9b7b328565d5645faf4f4978acf96</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1922 363</string>
+          <string>hstem 1922 370</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring" format="2">
+  <advance width="1421"/>
+  <unicode hex="00C5"/>
+  <anchor x="711" y="0" name="bottom"/>
+  <anchor x="1246" y="20" name="ogonek"/>
+  <anchor x="711" y="2048" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="ringcomb.case" xOffset="426" yOffset="576"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+ringcomb.case</string>
+  </dict>
+  </lib>
+</glyph>

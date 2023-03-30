@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccedilla" format="2">
+  <advance width="852"/>
+  <unicode hex="00E7"/>
+  <anchor x="438" y="1000" name="top"/>
+  <anchor x="510" y="-603" name="bottom"/>
+  <outline>
+    <component base="c"/>
+    <component base="cedillacomb" xOffset="115" yOffset="-4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>c+cedillacomb</string>
+  </dict>
+  </lib>
+</glyph>

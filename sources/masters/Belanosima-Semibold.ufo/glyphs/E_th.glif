@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="2">
+  <advance width="1460"/>
+  <unicode hex="00D0"/>
+  <anchor x="756" y="0" name="bottom"/>
+  <anchor x="586" y="1427" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="strokeshortcomb" xOffset="-108" yOffset="-142"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>D+strokeshortcomb</string>
+  </dict>
+  </lib>
+</glyph>

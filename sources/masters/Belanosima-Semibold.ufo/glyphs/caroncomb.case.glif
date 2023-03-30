@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb.case" format="2">
+  <advance width="448"/>
+  <anchor x="467" y="1014" name="_top"/>
+  <anchor x="483" y="1536" name="top"/>
+  <outline>
+    <contour>
+      <point x="298" y="1443" type="curve" smooth="yes"/>
+      <point x="147" y="1443" type="line" smooth="yes"/>
+      <point x="128" y="1443"/>
+      <point x="69" y="1443"/>
+      <point x="69" y="1414" type="curve" smooth="yes"/>
+      <point x="69" y="1393"/>
+      <point x="98" y="1366"/>
+      <point x="112" y="1353" type="curve" smooth="yes"/>
+      <point x="217" y="1258"/>
+      <point x="322" y="1160"/>
+      <point x="429" y="1067" type="curve" smooth="yes"/>
+      <point x="439" y="1058"/>
+      <point x="450" y="1051"/>
+      <point x="463" y="1051" type="curve" smooth="yes"/>
+      <point x="477" y="1051"/>
+      <point x="488" y="1059"/>
+      <point x="498" y="1068" type="curve" smooth="yes"/>
+      <point x="603" y="1162"/>
+      <point x="706" y="1258"/>
+      <point x="810" y="1353" type="curve" smooth="yes"/>
+      <point x="824" y="1366"/>
+      <point x="852" y="1393"/>
+      <point x="852" y="1414" type="curve" smooth="yes"/>
+      <point x="852" y="1443"/>
+      <point x="794" y="1443"/>
+      <point x="775" y="1443" type="curve" smooth="yes"/>
+      <point x="625" y="1443" type="line" smooth="yes"/>
+      <point x="577" y="1443"/>
+      <point x="502" y="1345"/>
+      <point x="473" y="1345" type="curve" smooth="yes"/>
+      <point x="442" y="1345"/>
+      <point x="345" y="1443"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+  <real>405</real>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1ff0f820c29f97d5721e79448c68098dd287f5bbf5567f2fe72950c164bc0509131537c0392f8675a6779580e27a764491468e673ac93ee19dad3d709e6ad2e5</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1170 21</string>
+          <string>hstem 1610 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="otilde" format="2">
+  <advance width="1118"/>
+  <unicode hex="00F5"/>
+  <anchor x="561" y="0" name="bottom"/>
+  <anchor x="561" y="510" name="center"/>
+  <anchor x="1074" y="22" name="ogonek"/>
+  <anchor x="957" y="1017" name="topright"/>
+  <anchor x="606" y="1571" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildecomb" xOffset="239" yOffset="80"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+tildecomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="2">
+  <advance width="451"/>
+  <unicode hex="0069"/>
+  <anchor x="205" y="0" name="bottom"/>
+  <anchor x="537" y="22" name="ogonek"/>
+  <anchor x="229" y="1379" name="top"/>
+  <outline>
+    <contour>
+      <point x="105" y="41" type="curve" smooth="yes"/>
+      <point x="105" y="14"/>
+      <point x="118" y="0"/>
+      <point x="146" y="0" type="curve" smooth="yes"/>
+      <point x="304" y="0" type="line" smooth="yes"/>
+      <point x="332" y="0"/>
+      <point x="345" y="14"/>
+      <point x="345" y="41" type="curve" smooth="yes"/>
+      <point x="345" y="315"/>
+      <point x="343" y="590"/>
+      <point x="343" y="864" type="curve" smooth="yes"/>
+      <point x="343" y="891"/>
+      <point x="329" y="905"/>
+      <point x="302" y="905" type="curve" smooth="yes"/>
+      <point x="148" y="905" type="line" smooth="yes"/>
+      <point x="121" y="905"/>
+      <point x="107" y="891"/>
+      <point x="107" y="864" type="curve" smooth="yes"/>
+      <point x="107" y="590"/>
+      <point x="105" y="315"/>
+    </contour>
+    <contour>
+      <point x="92" y="1243" type="curve" smooth="yes"/>
+      <point x="92" y="1168"/>
+      <point x="158" y="1107"/>
+      <point x="232" y="1107" type="curve" smooth="yes"/>
+      <point x="305" y="1107"/>
+      <point x="370" y="1167"/>
+      <point x="370" y="1241" type="curve" smooth="yes"/>
+      <point x="370" y="1315"/>
+      <point x="306" y="1379"/>
+      <point x="232" y="1379" type="curve" smooth="yes"/>
+      <point x="158" y="1379"/>
+      <point x="92" y="1318"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1d7669f762054f6841e32a30ea35e1488d12b5bfea68c8564a1b8b59ea56ffe78d7e006da84e66e38f963335f6ee9f6df8cb7fc5ad1e57f37990176e90688103</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 2 21</string>
+          <string>hstem 1073 248</string>
+          <string>vstem -7 276</string>
+          <string>vstem 11 242</string>
+          <string>vstem 19 227</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

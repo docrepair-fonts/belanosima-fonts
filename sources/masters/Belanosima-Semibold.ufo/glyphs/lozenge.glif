@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="2">
+  <advance width="826"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="80" y="725" type="curve" smooth="yes"/>
+      <point x="80" y="708"/>
+      <point x="337" y="60"/>
+      <point x="366" y="-8" type="curve" smooth="yes"/>
+      <point x="373" y="-24"/>
+      <point x="389" y="-67"/>
+      <point x="413" y="-67" type="curve" smooth="yes"/>
+      <point x="437" y="-67"/>
+      <point x="453" y="-24"/>
+      <point x="460" y="-8" type="curve" smooth="yes"/>
+      <point x="489" y="60"/>
+      <point x="747" y="708"/>
+      <point x="747" y="725" type="curve" smooth="yes"/>
+      <point x="747" y="742"/>
+      <point x="489" y="1389"/>
+      <point x="460" y="1457" type="curve" smooth="yes"/>
+      <point x="453" y="1473"/>
+      <point x="437" y="1516"/>
+      <point x="413" y="1516" type="curve" smooth="yes"/>
+      <point x="389" y="1516"/>
+      <point x="373" y="1473"/>
+      <point x="366" y="1457" type="curve" smooth="yes"/>
+      <point x="337" y="1389"/>
+      <point x="80" y="742"/>
+    </contour>
+    <contour>
+      <point x="413" y="1117" type="line"/>
+      <point x="557" y="725" type="line"/>
+      <point x="413" y="330" type="line"/>
+      <point x="270" y="725" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>44d29ab081da33f8d72e4a393f4311502685f2c366dba10c2ba8cc5b8ccc312f58ea7b32e0a887162de38d5c3ee5a50bee404a2552f46a414fef5fee97897bb8</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 66 21</string>
+          <string>hstem 1082 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

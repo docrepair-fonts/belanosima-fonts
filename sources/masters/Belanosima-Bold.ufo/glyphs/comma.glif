@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="2">
+  <advance width="709"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="540" y="193" type="curve" smooth="yes"/>
+      <point x="312" y="193" type="line" smooth="yes"/>
+      <point x="287" y="193"/>
+      <point x="269" y="182"/>
+      <point x="257" y="160" type="curve" smooth="yes"/>
+      <point x="231" y="114"/>
+      <point x="208" y="66"/>
+      <point x="183" y="20" type="curve" smooth="yes"/>
+      <point x="148" y="-44"/>
+      <point x="112" y="-108"/>
+      <point x="77" y="-172" type="curve" smooth="yes"/>
+      <point x="68" y="-188"/>
+      <point x="59" y="-205"/>
+      <point x="59" y="-224" type="curve" smooth="yes"/>
+      <point x="59" y="-261"/>
+      <point x="102" y="-265"/>
+      <point x="130" y="-265" type="curve" smooth="yes"/>
+      <point x="341" y="-265" type="line" smooth="yes"/>
+      <point x="365" y="-265"/>
+      <point x="380" y="-255"/>
+      <point x="393" y="-235" type="curve" smooth="yes"/>
+      <point x="423" y="-190"/>
+      <point x="449" y="-142"/>
+      <point x="477" y="-95" type="curve" smooth="yes"/>
+      <point x="516" y="-30"/>
+      <point x="556" y="34"/>
+      <point x="593" y="100" type="curve" smooth="yes"/>
+      <point x="602" y="116"/>
+      <point x="611" y="133"/>
+      <point x="611" y="152" type="curve" smooth="yes"/>
+      <point x="611" y="188"/>
+      <point x="567" y="193"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2bf218ff3a2c8468ce2484b3d5f16c95db0a43615fa7d214d03da311df2e501ddf55220fb6f6f32cccb7e8a4b3b20391515dc8997436244526a2e11a12ca1828</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -314 21</string>
+          <string>hstem 488 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

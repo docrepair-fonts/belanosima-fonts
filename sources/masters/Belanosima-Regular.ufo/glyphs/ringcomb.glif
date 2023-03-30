@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb" format="2">
+  <advance width="167"/>
+  <unicode hex="030A"/>
+  <anchor x="317" y="897" name="_top"/>
+  <anchor x="320" y="1358" name="top"/>
+  <outline>
+    <contour>
+      <point x="66" y="1174" type="curve" smooth="yes"/>
+      <point x="66" y="1044"/>
+      <point x="172" y="968"/>
+      <point x="295" y="968" type="curve" smooth="yes"/>
+      <point x="414" y="968"/>
+      <point x="522" y="1047"/>
+      <point x="522" y="1173" type="curve" smooth="yes"/>
+      <point x="522" y="1304"/>
+      <point x="420" y="1377"/>
+      <point x="296" y="1377" type="curve" smooth="yes"/>
+      <point x="175" y="1377"/>
+      <point x="66" y="1304"/>
+    </contour>
+    <contour>
+      <point x="195" y="1169" type="curve" smooth="yes"/>
+      <point x="195" y="1230"/>
+      <point x="243" y="1261"/>
+      <point x="299" y="1261" type="curve" smooth="yes"/>
+      <point x="354" y="1261"/>
+      <point x="395" y="1230"/>
+      <point x="395" y="1172" type="curve" smooth="yes"/>
+      <point x="395" y="1116"/>
+      <point x="352" y="1079"/>
+      <point x="298" y="1079" type="curve" smooth="yes"/>
+      <point x="245" y="1079"/>
+      <point x="195" y="1112"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+  <real>323</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>320f7f31e6c1f2bb8146af0a2191bd6b61b80b566c3e71331f525d029ca22eb11523a07afe2a9da5027a9c12e617e7a67055a9d4fc0406a7f041fddab87c9c8c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1103 500</string>
+          <string>vstem 56 174</string>
+          <string>vstem 417 172</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
