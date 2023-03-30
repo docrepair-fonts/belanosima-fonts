@@ -1,4 +1,5 @@
-Copyright 2023 The Belanosima-Fonts Project Authors (https://github.com/googlefonts/googlefonts-project-template)
+Copyright 2010 The Josefin Sans Project Authors (github.com/ThomasJockin/JosefinSansFont-master), with Reserved Font Name "Josefin Sans". 
+Copyright 2023 The Belanosima Project Authors (github.com/googlefonts/belanosima).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
