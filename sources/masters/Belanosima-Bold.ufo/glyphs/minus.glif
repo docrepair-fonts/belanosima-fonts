@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="minus" format="2">
   <advance width="900"/>
   <unicode hex="2212"/>
+  <unicode hex="00AD"/>
   <outline>
     <contour>
       <point x="93" y="354" type="curve" smooth="yes"/>
@@ -27,26 +28,26 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>0cbe1f910f5d029aafd85dc64879a94e2fbdfc6835637bdae2178dc40bc4f7bd26df73e4d50d246a03c319351d3213559ca545218e5d5c0e53a4af47400a5528</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 433 357</string>
-          <string>hstem 433 365</string>
-          <string>hstem 439 344</string>
-          <string>hstem 445 331</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 433 357</string>
+              <string>hstem 433 365</string>
+              <string>hstem 439 344</string>
+              <string>hstem 445 331</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>0cbe1f910f5d029aafd85dc64879a94e2fbdfc6835637bdae2178dc40bc4f7bd26df73e4d50d246a03c319351d3213559ca545218e5d5c0e53a4af47400a5528</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

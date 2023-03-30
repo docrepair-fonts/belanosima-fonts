@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="periodcentered" format="2">
   <advance width="575"/>
+  <unicode hex="2219"/>
   <unicode hex="00B7"/>
   <outline>
     <contour>
@@ -19,24 +20,24 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w575m107,614c107,515 183,433 284,433c384,433 465,514 465,614c465,709 381,798 285,798c188,798 107,709 107,614</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 500 477</string>
-          <string>vstem 25 469</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 500 477</string>
+              <string>vstem 25 469</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w575m107,614c107,515 183,433 284,433c384,433 465,514 465,614c465,709 381,798 285,798c188,798 107,709 107,614</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

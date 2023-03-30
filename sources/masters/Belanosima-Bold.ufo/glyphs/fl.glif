@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fl" format="2">
   <advance width="1358"/>
+  <unicode hex="F002"/>
   <unicode hex="FB02"/>
   <anchor x="1249" y="0" name="bottom"/>
   <anchor x="1238" y="1804" name="top"/>
@@ -104,9 +105,9 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
-  </dict>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.6,0.6,1</string>
+    </dict>
   </lib>
 </glyph>

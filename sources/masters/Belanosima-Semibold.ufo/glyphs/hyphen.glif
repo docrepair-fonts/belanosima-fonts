@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hyphen" format="2">
   <advance width="870"/>
+  <unicode hex="2010"/>
   <unicode hex="002D"/>
   <outline>
     <contour>
@@ -27,27 +28,27 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>7b39b98e66f06195e64ff03800bc4f164ff49e8ba86eb5fd9e58de791ad334ebd02cca913cfd5ded6655241f70378e5e5ef03c848f4c69bef0ce016cd7521895</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 418 21</string>
-          <string>hstem 432 334</string>
-          <string>hstem 451 315</string>
-          <string>hstem 451 339</string>
-          <string>hstem 803 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 418 21</string>
+              <string>hstem 432 334</string>
+              <string>hstem 451 315</string>
+              <string>hstem 451 339</string>
+              <string>hstem 803 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>7b39b98e66f06195e64ff03800bc4f164ff49e8ba86eb5fd9e58de791ad334ebd02cca913cfd5ded6655241f70378e5e5ef03c848f4c69bef0ce016cd7521895</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

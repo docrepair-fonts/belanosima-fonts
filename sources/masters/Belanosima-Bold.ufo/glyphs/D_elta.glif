@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Delta" format="2">
   <advance width="819"/>
   <unicode hex="0394"/>
+  <unicode hex="2206"/>
   <outline>
     <contour>
       <point x="2" y="0" type="curve" smooth="yes"/>
@@ -51,26 +52,26 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>0a7f85968a11ca369d793dfc05d97bfdf518bdf622f39022cead25dbc93ee5792bc0a889ae66c3a3b97a2035fcfd94f6b3b30819b4554a1804ac369d146ff75b</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.6,0.6,1</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 132</string>
-          <string>hstem 1569 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 132</string>
+              <string>hstem 1569 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>0a7f85968a11ca369d793dfc05d97bfdf518bdf622f39022cead25dbc93ee5792bc0a889ae66c3a3b97a2035fcfd94f6b3b30819b4554a1804ac369d146ff75b</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

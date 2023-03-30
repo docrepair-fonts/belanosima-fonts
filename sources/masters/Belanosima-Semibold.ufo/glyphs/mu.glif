@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="mu" format="2">
   <advance width="784"/>
   <unicode hex="03BC"/>
+  <unicode hex="00B5"/>
   <anchor x="392" y="0" name="bottom"/>
   <anchor x="1028" y="22" name="ogonek"/>
   <anchor x="397" y="1035" name="top"/>
@@ -78,29 +79,29 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>fa318a0ac4c0917277f14fb28181bfe475e4eb7a0677423b655d8e722b3133b016c39cf4dbd1b3ab2cf8538a6f89f13e3c316fc5d259cee8cf60e9e68168bd94</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.6,0.6,1</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -369 21</string>
-          <string>hstem -1 115</string>
-          <string>hstem 973 -20</string>
-          <string>vstem 399 131</string>
-          <string>vstem 834 132</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -369 21</string>
+              <string>hstem -1 115</string>
+              <string>hstem 973 -20</string>
+              <string>vstem 399 131</string>
+              <string>vstem 834 132</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>fa318a0ac4c0917277f14fb28181bfe475e4eb7a0677423b655d8e722b3133b016c39cf4dbd1b3ab2cf8538a6f89f13e3c316fc5d259cee8cf60e9e68168bd94</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

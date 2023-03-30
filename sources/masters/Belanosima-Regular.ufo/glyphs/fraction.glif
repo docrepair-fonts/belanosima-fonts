@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fraction" format="2">
   <advance width="625"/>
   <unicode hex="2044"/>
+  <unicode hex="2215"/>
   <outline>
     <contour>
       <point x="737" y="1456" type="curve" smooth="yes"/>
@@ -45,25 +46,25 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d853c795106b3bf86aea7a5ce81ae37290c0888c9a04c054de1f15cd9f785f418f3c87a54daa4f9440b73ca1b9672c361dd33cde3d3798a14bd9a197fef4b6c1</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.6,0.6,1</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -78 21</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -78 21</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>d853c795106b3bf86aea7a5ce81ae37290c0888c9a04c054de1f15cd9f785f418f3c87a54daa4f9440b73ca1b9672c361dd33cde3d3798a14bd9a197fef4b6c1</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

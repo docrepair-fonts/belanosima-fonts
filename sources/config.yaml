@@ -1,7 +1,7 @@
+---
+buildOTF: false
+buildVariable: false
+familyName: Belanosima
+outputDir: ../fonts
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
-axisOrder:
-  - wght
-  - ital
-familyName: Rubik
+  - Belanosima-Regular.designspace

@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis tag="wght" maximum="388.988" name="weight" minimum="252.169" default="252.169">
+  <axis default="252.169" maximum="388.988" tag="wght" name="weight" minimum="252.169">
    <labelname xml:lang="en">Weight</labelname>
    <map input="252.169" output="434"/>
   </axis>
-  <axis tag="wdth" maximum="200" name="width" minimum="1" default="1">
+  <axis default="1" maximum="200" tag="wdth" name="width" minimum="1">
    <labelname xml:lang="en">Width</labelname>
    <map input="1" output="1"/>
    <map input="200" output="300"/>
   </axis>
  </axes>
  <sources>
-  <source filename="masters/Belanosima-Bold.ufo" stylename="Bold" familyname="Belanosima" name="Bold">
+  <source stylename="Bold" familyname="Belanosima" name="Bold" filename="masters/Belanosima-Bold.ufo">
    <location>
-    <dimension name="weight" xvalue="434"/>
-    <dimension name="width" xvalue="1"/>
+    <dimension xvalue="434" name="weight"/>
+    <dimension xvalue="1" name="width"/>
    </location>
   </source>
-  <source filename="masters/Belanosima-Regular.ufo" stylename="Regular" familyname="Belanosima" name="Regular">
+  <source stylename="Regular" familyname="Belanosima" name="Regular" filename="masters/Belanosima-Regular.ufo">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension name="weight" xvalue="229"/>
-    <dimension name="width" xvalue="1"/>
+    <dimension xvalue="229" name="weight"/>
+    <dimension xvalue="1" name="width"/>
    </location>
   </source>
-  <source filename="masters/Belanosima-Semibold.ufo" stylename="Semi Bold" familyname="Belanosima" name="Semibold">
+  <source stylename="Semi Bold" familyname="Belanosima" name="Semibold" filename="masters/Belanosima-Semibold.ufo">
    <location>
-    <dimension name="weight" xvalue="328"/>
-    <dimension name="width" xvalue="1"/>
+    <dimension xvalue="328" name="weight"/>
+    <dimension xvalue="1" name="width"/>
    </location>
   </source>
  </sources>
@@ -89,22 +89,22 @@
   </dict>
  </lib>
  <instances>
-  <instance filename="instances/Belanosima-Regular.ufo" stylename="Regular" familyname="Belanosima" name="Regular">
+  <instance stylename="Regular" familyname="Belanosima" name="Regular" filename="instances/Belanosima-Regular.ufo">
    <location>
-    <dimension name="width" xvalue="1"/>
-    <dimension name="weight" xvalue="229"/>
+    <dimension xvalue="1" name="width"/>
+    <dimension xvalue="229" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/Belanosima-SemiBold.ufo" stylename="Semi Bold" familyname="Belanosima" name="SemiBold">
+  <instance stylename="Semi Bold" familyname="Belanosima" name="SemiBold" filename="instances/Belanosima-SemiBold.ufo">
    <location>
-    <dimension name="width" xvalue="1"/>
-    <dimension name="weight" xvalue="328"/>
+    <dimension xvalue="1" name="width"/>
+    <dimension xvalue="328" name="weight"/>
    </location>
   </instance>
-  <instance filename="instances/Belanosima-Bold.ufo" stylename="Bold" familyname="Belanosima" name="Bold">
+  <instance stylename="Bold" familyname="Belanosima" name="Bold" filename="instances/Belanosima-Bold.ufo">
    <location>
-    <dimension name="width" xvalue="1"/>
-    <dimension name="weight" xvalue="434"/>
+    <dimension xvalue="1" name="width"/>
+    <dimension xvalue="434" name="weight"/>
    </location>
   </instance>
  </instances>

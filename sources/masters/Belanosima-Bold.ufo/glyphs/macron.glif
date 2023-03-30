@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macron" format="2">
   <advance width="799"/>
+  <unicode hex="02C9"/>
   <unicode hex="00AF"/>
   <outline>
     <contour>
@@ -27,26 +28,26 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>283976ed9eca093514f0f7c52068c12ed9264434302cfe11b47c4fe0a505d932166b0cb77d0e79f206492b106fdae86cbde04593e021cf87c3403eace5af0af8</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 1028 21</string>
-          <string>hstem 1041 361</string>
-          <string>hstem 1065 351</string>
-          <string>hstem 1436 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 1028 21</string>
+              <string>hstem 1041 361</string>
+              <string>hstem 1065 351</string>
+              <string>hstem 1436 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>283976ed9eca093514f0f7c52068c12ed9264434302cfe11b47c4fe0a505d932166b0cb77d0e79f206492b106fdae86cbde04593e021cf87c3403eace5af0af8</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>
