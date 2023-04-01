@@ -13,13 +13,23 @@ help:
 	@echo "  make proof:  Creates HTML proof documents in the proof/ directory"
 	@echo "  make images: Creates PNG specimen images in the documentation/ directory"
 	@echo
-
+	
 build: build.stamp
 
 venv: venv/touchfile
 
 build.stamp: venv .init.stamp sources/config.yaml $(SOURCES)
-	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config.yaml && touch build.stamp
+	. venv/bin/activate; \
+	rm -rf fonts/; \
+	fontmake -m $(SOURCES) -o ttf --feature-writer None --output-dir "fonts/ttf"; \
+	fonts=$$(find "fonts/ttf" -type f -name "*.ttf"); \
+	echo $$fonts; \
+	if [ -n "$$fonts" ]; then \
+		for font in $$fonts; do \
+			gftools fix-font "$$font"; \
+			mv "$$font.fix" "$$font"; \
+		done; \
+	fi && touch build.stamp;
 
 .init.stamp: venv
 	. venv/bin/activate; python3 scripts/first-run.py

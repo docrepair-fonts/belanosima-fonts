@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>1434</integer>
     <key>copyright</key>
-    <string>Copyright 2010 The Josefin Sans Project Authors (github.com/googlefonts/josefinsans), with Reserved Font Name "Josefin Sans". Copyright 2023 The Belanosima Project Authors (github.com/googlefonts/belanosima).</string>
+    <string>Copyright 2023 The Belanosima Project Authors (https://github.com/docrepair-fonts/belanosima-fonts), with Reserved Font Name "Josefin Sans".</string>
     <key>descender</key>
     <integer>-678</integer>
     <key>familyName</key>
@@ -77,9 +77,9 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
-    <string>Santiago Orozco</string>
+    <string>The DocRepair Project, Santiago Orozco</string>
     <key>openTypeNameDesignerURL</key>
-    <string>https://www.typemade.mx</string>
+    <string>https://github.com/docrepair-fonts/belanosima-fonts</string>
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>

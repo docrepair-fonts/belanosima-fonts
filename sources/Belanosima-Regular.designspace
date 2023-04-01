@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis tag="wght" minimum="252.169" name="weight" default="252.169" maximum="388.988">
+  <axis name="weight" default="252.169" minimum="252.169" tag="wght" maximum="388.988">
    <labelname xml:lang="en">Weight</labelname>
-   <map input="252.169" output="434"/>
+   <map output="434" input="252.169"/>
   </axis>
-  <axis tag="wdth" minimum="1" name="width" default="1" maximum="200">
+  <axis name="width" default="1" minimum="1" tag="wdth" maximum="200">
    <labelname xml:lang="en">Width</labelname>
-   <map input="1" output="1"/>
-   <map input="200" output="300"/>
+   <map output="1" input="1"/>
+   <map output="300" input="200"/>
   </axis>
  </axes>
  <sources>
-  <source familyname="Belanosima" filename="masters/Belanosima-Bold.ufo" name="Bold" stylename="Bold">
+  <source name="Bold" filename="masters/Belanosima-Bold.ufo" familyname="Belanosima" stylename="Bold">
    <location>
     <dimension name="weight" xvalue="434"/>
     <dimension name="width" xvalue="1"/>
    </location>
   </source>
-  <source familyname="Belanosima" filename="masters/Belanosima-Regular.ufo" name="Regular" stylename="Regular">
+  <source name="Regular" filename="masters/Belanosima-Regular.ufo" familyname="Belanosima" stylename="Regular">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -28,7 +28,7 @@
     <dimension name="width" xvalue="1"/>
    </location>
   </source>
-  <source familyname="Belanosima" filename="masters/Belanosima-Semibold.ufo" name="Semibold" stylename="Semi Bold">
+  <source name="Semibold" filename="masters/Belanosima-Semibold.ufo" familyname="Belanosima" stylename="Semi Bold">
    <location>
     <dimension name="weight" xvalue="328"/>
     <dimension name="width" xvalue="1"/>
@@ -37,18 +37,6 @@
  </sources>
  <lib>
   <dict>
-   <key>com.github.googlei18n.ufo2ft.featureWriters</key>
-   <array>
-    <dict>
-     <key>class</key>
-     <string>KernFeatureWriter</string>
-     <key>options</key>
-     <dict>
-      <key>mode</key>
-      <string>skip</string>
-     </dict>
-    </dict>
-   </array>
    <key>org.docrepair-fonts</key>
    <dict>
     <key>masters</key>
@@ -89,19 +77,19 @@
   </dict>
  </lib>
  <instances>
-  <instance familyname="Belanosima" filename="instances/Belanosima-Regular.ufo" name="Regular" stylename="Regular">
+  <instance name="Regular" filename="instances/Belanosima-Regular.ufo" familyname="Belanosima" stylename="Regular">
    <location>
     <dimension name="width" xvalue="1"/>
     <dimension name="weight" xvalue="229"/>
    </location>
   </instance>
-  <instance familyname="Belanosima" filename="instances/Belanosima-SemiBold.ufo" name="SemiBold" stylename="Semi Bold">
+  <instance name="SemiBold" filename="instances/Belanosima-SemiBold.ufo" familyname="Belanosima" stylename="Semi Bold">
    <location>
     <dimension name="width" xvalue="1"/>
     <dimension name="weight" xvalue="328"/>
    </location>
   </instance>
-  <instance familyname="Belanosima" filename="instances/Belanosima-Bold.ufo" name="Bold" stylename="Bold">
+  <instance name="Bold" filename="instances/Belanosima-Bold.ufo" familyname="Belanosima" stylename="Bold">
    <location>
     <dimension name="width" xvalue="1"/>
     <dimension name="weight" xvalue="434"/>
