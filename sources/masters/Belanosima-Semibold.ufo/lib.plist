@@ -80,7 +80,7 @@
     <key>org.docrepair-fonts.fit</key>
     <dict>
       <key>ref</key>
-      <string>ref_Semibold</string>
+      <string>ref_SemiBold</string>
       <key>tags</key>
       <array>
         <string>mux_uc</string>
@@ -90,11 +90,11 @@
       </array>
       <key>vaxis</key>
       <array>
-        <string>mux_SemiboldXCond</string>
-        <string>mux_SemiboldCond</string>
-        <string>mux_Semibold</string>
-        <string>mux_SemiboldWide</string>
-        <string>mux_SemiboldXWide</string>
+        <string>mux_SemiBoldXCond</string>
+        <string>mux_SemiBoldCond</string>
+        <string>mux_SemiBold</string>
+        <string>mux_SemiBoldWide</string>
+        <string>mux_SemiBoldXWide</string>
       </array>
     </dict>
     <key>public.glyphOrder</key>

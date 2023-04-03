@@ -28,7 +28,7 @@
     <dimension name="width" xvalue="1"/>
    </location>
   </source>
-  <source name="Semibold" filename="masters/Belanosima-Semibold.ufo" familyname="Belanosima" stylename="Semi Bold">
+  <source name="SemiBold" filename="masters/Belanosima-SemiBold.ufo" familyname="Belanosima" stylename="SemiBold">
    <location>
     <dimension name="weight" xvalue="328"/>
     <dimension name="width" xvalue="1"/>
@@ -42,19 +42,19 @@
     <key>masters</key>
     <array>
      <string>mux_Regular</string>
-     <string>mux_Semibold</string>
+     <string>mux_SemiBold</string>
      <string>mux_Bold</string>
      <string>mux_RegularXCond</string>
-     <string>mux_SemiboldXCond</string>
+     <string>mux_SemiBoldXCond</string>
      <string>mux_BoldXCond</string>
      <string>mux_RegularCond</string>
-     <string>mux_SemiboldCond</string>
+     <string>mux_SemiBoldCond</string>
      <string>mux_BoldCond</string>
      <string>mux_RegularXWide</string>
-     <string>mux_SemiboldXWide</string>
+     <string>mux_SemiBoldXWide</string>
      <string>mux_BoldXWide</string>
      <string>mux_RegularWide</string>
-     <string>mux_SemiboldWide</string>
+     <string>mux_SemiBoldWide</string>
      <string>mux_BoldWide</string>
     </array>
     <key>vaxis</key>
@@ -68,11 +68,11 @@
    <key>org.docrepair-fonts.fit</key>
    <dict>
     <key>Bold</key>
-    <string>mux_Semibold</string>
+    <string>mux_SemiBold</string>
     <key>Regular</key>
     <string>mux_Regular</string>
-    <key>Semibold</key>
-    <string>mux_Semibold</string>
+    <key>SemiBold</key>
+    <string>mux_SemiBold</string>
    </dict>
   </dict>
  </lib>
@@ -83,7 +83,7 @@
     <dimension name="weight" xvalue="229"/>
    </location>
   </instance>
-  <instance name="SemiBold" filename="instances/Belanosima-SemiBold.ufo" familyname="Belanosima" stylename="Semi Bold">
+  <instance name="SemiBold" filename="instances/Belanosima-SemiBold.ufo" familyname="Belanosima" stylename="SemiBold">
    <location>
     <dimension name="width" xvalue="1"/>
     <dimension name="weight" xvalue="328"/>
