@@ -4,18 +4,18 @@
   <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="108" y="177" type="curve" smooth="yes"/>
-      <point x="108" y="80"/>
-      <point x="189" y="0"/>
+      <point x="79" y="160" type="curve" smooth="yes"/>
+      <point x="79" y="54"/>
+      <point x="194" y="0"/>
       <point x="286" y="0" type="curve" smooth="yes"/>
-      <point x="387" y="0"/>
-      <point x="469" y="81"/>
-      <point x="469" y="182" type="curve" smooth="yes"/>
-      <point x="469" y="278"/>
-      <point x="383" y="367"/>
-      <point x="287" y="367" type="curve" smooth="yes"/>
-      <point x="185" y="367"/>
-      <point x="108" y="275"/>
+      <point x="377" y="0"/>
+      <point x="496" y="55"/>
+      <point x="496" y="160" type="curve" smooth="yes"/>
+      <point x="496" y="260"/>
+      <point x="376" y="324"/>
+      <point x="288" y="324" type="curve" smooth="yes"/>
+      <point x="200" y="324"/>
+      <point x="79" y="260"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w575m108,177c108,80 189,0 286,0c387,0 469,81 469,182c469,278 383,367 287,367c185,367 108,275 108,177</string>
+    <string>w575m79,160c79,54 194,0 286,0c377,0 496,55 496,160c496,260 376,324 288,324c200,324 79,260 79,160</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,43 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb.case" format="2">
   <advance width="406"/>
-  <anchor x="504" y="1677" name="_top"/>
-  <anchor x="504" y="2242" name="top"/>
+  <anchor x="504" y="1585" name="_top"/>
+  <anchor x="504" y="2119" name="top"/>
   <outline>
     <contour>
-      <point x="703" y="1822" type="curve" smooth="yes"/>
-      <point x="859" y="1822"/>
-      <point x="954" y="1989"/>
-      <point x="954" y="2128" type="curve" smooth="yes"/>
-      <point x="954" y="2158"/>
-      <point x="934" y="2172"/>
-      <point x="906" y="2172" type="curve" smooth="yes"/>
-      <point x="879" y="2172"/>
-      <point x="853" y="2172"/>
-      <point x="826" y="2171" type="curve" smooth="yes"/>
-      <point x="789" y="2170"/>
-      <point x="778" y="2154"/>
-      <point x="770" y="2120" type="curve" smooth="yes"/>
-      <point x="761" y="2078"/>
-      <point x="746" y="2040"/>
-      <point x="696" y="2040" type="curve" smooth="yes"/>
-      <point x="617" y="2040"/>
-      <point x="516" y="2182"/>
-      <point x="377" y="2182" type="curve" smooth="yes"/>
-      <point x="207" y="2182"/>
-      <point x="104" y="2042"/>
-      <point x="104" y="1881" type="curve" smooth="yes"/>
-      <point x="104" y="1848"/>
-      <point x="116" y="1829"/>
-      <point x="152" y="1829" type="curve" smooth="yes"/>
-      <point x="174" y="1829"/>
-      <point x="197" y="1829"/>
-      <point x="219" y="1830" type="curve" smooth="yes"/>
-      <point x="310" y="1832"/>
-      <point x="260" y="1953"/>
-      <point x="354" y="1953" type="curve" smooth="yes"/>
-      <point x="462" y="1953"/>
-      <point x="523" y="1822"/>
+      <point x="700" y="1729" type="curve" smooth="yes"/>
+      <point x="851" y="1729"/>
+      <point x="947" y="1877"/>
+      <point x="947" y="2016" type="curve" smooth="yes"/>
+      <point x="947" y="2046"/>
+      <point x="927" y="2060"/>
+      <point x="899" y="2060" type="curve" smooth="yes"/>
+      <point x="872" y="2060"/>
+      <point x="846" y="2060"/>
+      <point x="819" y="2059" type="curve" smooth="yes"/>
+      <point x="783" y="2058"/>
+      <point x="771" y="2042"/>
+      <point x="766" y="2008" type="curve" smooth="yes"/>
+      <point x="759" y="1964"/>
+      <point x="748" y="1917"/>
+      <point x="694" y="1917" type="curve" smooth="yes"/>
+      <point x="615" y="1917"/>
+      <point x="517" y="2067"/>
+      <point x="375" y="2067" type="curve" smooth="yes"/>
+      <point x="209" y="2067"/>
+      <point x="104" y="1944"/>
+      <point x="104" y="1783" type="curve" smooth="yes"/>
+      <point x="104" y="1716"/>
+      <point x="173" y="1733"/>
+      <point x="219" y="1733" type="curve" smooth="yes"/>
+      <point x="314" y="1733"/>
+      <point x="249" y="1868"/>
+      <point x="353" y="1868" type="curve" smooth="yes"/>
+      <point x="445" y="1868"/>
+      <point x="518" y="1729"/>
     </contour>
   </outline>
   <lib>
@@ -45,13 +42,13 @@
   <key>com.schriftgestaltung.Glyphs.originalWidth</key>
   <real>511</real>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6bfef8b556362a635db3116282737b2c6c88412244dd305a15b4cd52b2d9321f5fda73b973859aff85d4925eec26ad84bb5852f5994dbcd27b7bd951b326d640</string>
+    <string>8150fb260da2bb6172b467a57f9664569efbb8c3deed9754e3fd0502a52f7c3ca18566f5fe4613a1fc737c38c2301ed0f38fd567a95445b6801bb4c099db2390</string>
     <key>hintSetList</key>
     <array>
       <dict>

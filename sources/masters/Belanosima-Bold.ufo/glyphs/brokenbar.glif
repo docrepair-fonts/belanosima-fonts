@@ -4,60 +4,72 @@
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="138" y="1492" type="curve" smooth="yes"/>
-      <point x="138" y="1274"/>
-      <point x="142" y="1055"/>
-      <point x="142" y="837" type="curve" smooth="yes"/>
-      <point x="142" y="796"/>
-      <point x="162" y="776"/>
-      <point x="203" y="776" type="curve" smooth="yes"/>
-      <point x="464" y="776" type="line" smooth="yes"/>
-      <point x="505" y="776"/>
-      <point x="525" y="796"/>
-      <point x="525" y="837" type="curve" smooth="yes"/>
-      <point x="525" y="1055"/>
-      <point x="529" y="1274"/>
-      <point x="529" y="1492" type="curve" smooth="yes"/>
-      <point x="529" y="1533"/>
-      <point x="510" y="1554"/>
-      <point x="468" y="1554" type="curve" smooth="yes"/>
-      <point x="199" y="1554" type="line" smooth="yes"/>
-      <point x="157" y="1554"/>
-      <point x="138" y="1533"/>
+      <point x="135" y="1503" type="curve" smooth="yes"/>
+      <point x="135" y="1273"/>
+      <point x="144" y="1042"/>
+      <point x="144" y="812" type="curve" smooth="yes"/>
+      <point x="144" y="784"/>
+      <point x="158" y="771"/>
+      <point x="185" y="771" type="curve" smooth="yes"/>
+      <point x="481" y="771" type="line" smooth="yes"/>
+      <point x="508" y="771"/>
+      <point x="522" y="784"/>
+      <point x="522" y="812" type="curve" smooth="yes"/>
+      <point x="522" y="1042"/>
+      <point x="531" y="1273"/>
+      <point x="531" y="1503" type="curve" smooth="yes"/>
+      <point x="531" y="1530"/>
+      <point x="517" y="1545"/>
+      <point x="490" y="1545" type="curve" smooth="yes"/>
+      <point x="176" y="1545" type="line" smooth="yes"/>
+      <point x="149" y="1545"/>
+      <point x="135" y="1530"/>
     </contour>
     <contour>
-      <point x="132" y="-460" type="curve" smooth="yes"/>
-      <point x="132" y="-502"/>
-      <point x="151" y="-523"/>
-      <point x="194" y="-523" type="curve" smooth="yes"/>
-      <point x="474" y="-523" type="line" smooth="yes"/>
-      <point x="516" y="-523"/>
-      <point x="535" y="-502"/>
-      <point x="535" y="-461" type="curve" smooth="yes"/>
-      <point x="535" y="-241"/>
-      <point x="527" y="-21"/>
-      <point x="527" y="199" type="curve" smooth="yes"/>
-      <point x="527" y="240"/>
-      <point x="507" y="260"/>
-      <point x="466" y="260" type="curve" smooth="yes"/>
-      <point x="201" y="260" type="line" smooth="yes"/>
-      <point x="160" y="260"/>
-      <point x="140" y="240"/>
-      <point x="140" y="199" type="curve" smooth="yes"/>
-      <point x="140" y="-21"/>
-      <point x="132" y="-240"/>
+      <point x="125" y="-481" type="curve" smooth="yes"/>
+      <point x="125" y="-511"/>
+      <point x="137" y="-524"/>
+      <point x="167" y="-524" type="curve" smooth="yes"/>
+      <point x="500" y="-524" type="line" smooth="yes"/>
+      <point x="530" y="-524"/>
+      <point x="542" y="-510"/>
+      <point x="542" y="-481" type="curve" smooth="yes"/>
+      <point x="542" y="-331"/>
+      <point x="534" y="-180"/>
+      <point x="530" y="-30" type="curve" smooth="yes"/>
+      <point x="528" y="23"/>
+      <point x="527" y="76"/>
+      <point x="526" y="128" type="curve" smooth="yes"/>
+      <point x="526" y="158"/>
+      <point x="528" y="190"/>
+      <point x="525" y="219" type="curve" smooth="yes"/>
+      <point x="522" y="246"/>
+      <point x="514" y="260"/>
+      <point x="484" y="260" type="curve" smooth="yes"/>
+      <point x="182" y="260" type="line" smooth="yes"/>
+      <point x="152" y="260"/>
+      <point x="144" y="246"/>
+      <point x="141" y="219" type="curve" smooth="yes"/>
+      <point x="138" y="190"/>
+      <point x="140" y="158"/>
+      <point x="140" y="128" type="curve" smooth="yes"/>
+      <point x="139" y="76"/>
+      <point x="138" y="23"/>
+      <point x="136" y="-30" type="curve" smooth="yes"/>
+      <point x="133" y="-180"/>
+      <point x="125" y="-331"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7af8c9a4a9068be39940780f70a3ee92ed65f6bdeda4b9ebcea3410a545acae990d2b5e880457e853058551515856c76e5ce086266f7a462f6f7c88fd210f060</string>
+    <string>39ffdac895f19fc4ae8745fe66aa18d7b2e95b7224e3378e78b20ac39ee19c47002c10657a7406a90884e886a56404fc97b4b7b8f37ec6f2ed17a4a99396e496</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -5,10 +5,10 @@
   <anchor x="714" y="0" name="bottom"/>
   <anchor x="1079" y="19" name="ogonek"/>
   <anchor x="1271" y="1297" name="topright"/>
-  <anchor x="871" y="2052" name="top"/>
+  <anchor x="875" y="1999" name="top"/>
   <outline>
     <component base="U"/>
-    <component base="acutecomb.case" xOffset="677" yOffset="137"/>
+    <component base="acutecomb.case" xOffset="614" yOffset="213"/>
   </outline>
   <lib>
   <dict>

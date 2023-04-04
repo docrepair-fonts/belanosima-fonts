@@ -4,9 +4,12 @@
   <unicode hex="0131"/>
   <anchor x="206" y="0" name="bottom"/>
   <anchor x="539" y="22" name="ogonek"/>
-  <anchor x="229" y="923" name="top"/>
+  <anchor x="229" y="924" name="top"/>
   <outline>
     <contour>
+      <point x="108" y="645" type="line" smooth="yes"/>
+      <point x="108" y="443"/>
+      <point x="106" y="242"/>
       <point x="106" y="41" type="curve" smooth="yes"/>
       <point x="106" y="14"/>
       <point x="120" y="0"/>
@@ -15,23 +18,16 @@
       <point x="332" y="0"/>
       <point x="346" y="14"/>
       <point x="346" y="41" type="curve" smooth="yes"/>
-      <point x="346" y="218"/>
-      <point x="343" y="395"/>
-      <point x="343" y="572" type="curve" smooth="yes"/>
-      <point x="342" y="784" type="line" smooth="yes"/>
-      <point x="342" y="810"/>
-      <point x="344" y="839"/>
-      <point x="342" y="864" type="curve" smooth="yes"/>
-      <point x="340" y="890"/>
-      <point x="331" y="905"/>
-      <point x="302" y="905" type="curve" smooth="yes"/>
-      <point x="150" y="905" type="line" smooth="yes"/>
-      <point x="124" y="905"/>
-      <point x="110" y="890"/>
-      <point x="110" y="864" type="curve" smooth="yes"/>
-      <point x="110" y="643" type="line" smooth="yes"/>
-      <point x="110" y="442"/>
-      <point x="106" y="242"/>
+      <point x="346" y="316"/>
+      <point x="344" y="591"/>
+      <point x="344" y="866" type="curve" smooth="yes"/>
+      <point x="344" y="893"/>
+      <point x="330" y="907"/>
+      <point x="303" y="907" type="curve" smooth="yes"/>
+      <point x="149" y="907" type="line" smooth="yes"/>
+      <point x="122" y="907"/>
+      <point x="108" y="893"/>
+      <point x="108" y="866" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +37,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f78111ab092781eedd65a2e250a6e6ef6be2f06845aef1c729cb831f6d5263313aad6a269a3b2e6841be6d17b03ee361df9b45390ca991dbfd03e5422a134e51</string>
+    <string>aead23b014acd1af3b5a55f5d9d1702ae6ebb26f77116ff83041a60f396c9da8c7acf722e16bd6dbeeabd7bacc9b9d6819d9962ec672770dfd2f557f208aac7e</string>
     <key>hintSetList</key>
     <array>
       <dict>

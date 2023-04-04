@@ -4,32 +4,32 @@
   <unicode hex="0030"/>
   <outline>
     <contour>
-      <point x="675" y="4" type="curve" smooth="yes"/>
-      <point x="1070" y="4"/>
-      <point x="1308" y="195"/>
-      <point x="1308" y="603" type="curve" smooth="yes"/>
-      <point x="1308" y="1043"/>
-      <point x="1093" y="1219"/>
-      <point x="665" y="1219" type="curve" smooth="yes"/>
-      <point x="230" y="1219"/>
-      <point x="48" y="1038"/>
-      <point x="48" y="603" type="curve" smooth="yes"/>
-      <point x="48" y="186"/>
-      <point x="270" y="4"/>
+      <point x="676" y="8" type="curve" smooth="yes"/>
+      <point x="1078" y="8"/>
+      <point x="1297" y="189"/>
+      <point x="1297" y="601" type="curve" smooth="yes"/>
+      <point x="1297" y="1058"/>
+      <point x="1123" y="1231"/>
+      <point x="667" y="1231" type="curve" smooth="yes"/>
+      <point x="204" y="1231"/>
+      <point x="59" y="1051"/>
+      <point x="59" y="599" type="curve" smooth="yes"/>
+      <point x="59" y="174"/>
+      <point x="261" y="8"/>
     </contour>
     <contour>
-      <point x="676" y="366" type="curve" smooth="yes"/>
-      <point x="513" y="366"/>
-      <point x="457" y="459"/>
-      <point x="457" y="611" type="curve" smooth="yes"/>
-      <point x="457" y="765"/>
-      <point x="512" y="854"/>
-      <point x="677" y="854" type="curve" smooth="yes"/>
-      <point x="833" y="854"/>
-      <point x="900" y="774"/>
-      <point x="900" y="622" type="curve" smooth="yes"/>
-      <point x="900" y="467"/>
-      <point x="844" y="366"/>
+      <point x="475" y="630" type="curve" smooth="yes"/>
+      <point x="475" y="763"/>
+      <point x="571" y="773"/>
+      <point x="679" y="773" type="curve" smooth="yes"/>
+      <point x="779" y="773"/>
+      <point x="882" y="763"/>
+      <point x="882" y="637" type="curve" smooth="yes"/>
+      <point x="882" y="489"/>
+      <point x="806" y="461"/>
+      <point x="673" y="461" type="curve" smooth="yes"/>
+      <point x="544" y="461"/>
+      <point x="475" y="488"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a7fc3811aa30b149dcbbc93eeed5cbadd2d5a55366363332095c5f6d4b1befddde2a11221259e5eecea3cb0a81bdd5f24c2df067402fbc26d96b5195669768fb</string>
+    <string>3a71e38b0d2a2c5ada27fa0a2607e78bb30f0969985dcf830419a5d8f0feb1b60c21cca6249a4e568b1cb68ee90971121aecadeb37364785ef8eadc8d7ae85b4</string>
     <key>hintSetList</key>
     <array>
       <dict>

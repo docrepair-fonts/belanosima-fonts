@@ -2,12 +2,12 @@
 <glyph name="edieresis" format="2">
   <advance width="1106"/>
   <unicode hex="00EB"/>
-  <anchor x="601" y="0" name="bottom"/>
-  <anchor x="1015" y="22" name="ogonek"/>
-  <anchor x="640" y="1498" name="top"/>
+  <anchor x="597" y="0" name="bottom"/>
+  <anchor x="998" y="22" name="ogonek"/>
+  <anchor x="638" y="1480" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="dieresiscomb" xOffset="169" yOffset="87"/>
+    <component base="dieresiscomb" xOffset="285" yOffset="131"/>
   </outline>
   <lib>
   <dict>

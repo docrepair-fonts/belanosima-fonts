@@ -5,44 +5,46 @@
   <anchor x="255" y="1406" name="top"/>
   <outline>
     <contour>
-      <point x="31" y="1186" type="curve" smooth="yes"/>
-      <point x="31" y="1060"/>
-      <point x="133" y="979"/>
-      <point x="254" y="979" type="curve" smooth="yes"/>
-      <point x="371" y="979"/>
-      <point x="483" y="1059"/>
-      <point x="483" y="1184" type="curve" smooth="yes"/>
-      <point x="483" y="1316"/>
-      <point x="385" y="1390"/>
+      <point x="30" y="1187" type="curve" smooth="yes"/>
+      <point x="30" y="1059"/>
+      <point x="135" y="979"/>
+      <point x="257" y="979" type="curve" smooth="yes"/>
+      <point x="376" y="979"/>
+      <point x="487" y="1058"/>
+      <point x="487" y="1185" type="curve" smooth="yes"/>
+      <point x="487" y="1317"/>
+      <point x="383" y="1390"/>
       <point x="259" y="1390" type="curve" smooth="yes"/>
-      <point x="137" y="1390"/>
-      <point x="31" y="1316"/>
+      <point x="138" y="1390"/>
+      <point x="30" y="1317"/>
     </contour>
     <contour>
-      <point x="158" y="1181" type="curve" smooth="yes"/>
-      <point x="158" y="1238"/>
+      <point x="159" y="1182" type="curve" smooth="yes"/>
+      <point x="159" y="1240"/>
       <point x="204" y="1273"/>
-      <point x="258" y="1273" type="curve" smooth="yes"/>
+      <point x="259" y="1273" type="curve" smooth="yes"/>
       <point x="313" y="1273"/>
-      <point x="355" y="1241"/>
-      <point x="355" y="1184" type="curve" smooth="yes"/>
-      <point x="355" y="1129"/>
-      <point x="310" y="1090"/>
-      <point x="257" y="1090" type="curve" smooth="yes"/>
-      <point x="205" y="1090"/>
-      <point x="158" y="1126"/>
+      <point x="358" y="1243"/>
+      <point x="358" y="1185" type="curve" smooth="yes"/>
+      <point x="358" y="1129"/>
+      <point x="313" y="1091"/>
+      <point x="259" y="1091" type="curve" smooth="yes"/>
+      <point x="206" y="1091"/>
+      <point x="159" y="1126"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.schriftgestaltung.Glyphs.originalWidth</key>
   <real>289</real>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>71c5231982b54e6825bf2d774efa8f676468bccb5b33401ef454aae95123b086775d0c2f4dcf50afabea19b663b70ceaf0678bfa7cfc6209214f11c8b1fc2b79</string>
+    <string>602762adcacb5309a2dd2e51be1353d3ac0cf7d980e0a3b9f7309ab6e8045d34aac3800916465edec3ef46a2858cce88675c53d8ef932eb9b937f42c9e8463f8</string>
     <key>hintSetList</key>
     <array>
       <dict>

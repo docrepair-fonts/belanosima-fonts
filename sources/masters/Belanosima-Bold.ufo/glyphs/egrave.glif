@@ -2,12 +2,12 @@
 <glyph name="egrave" format="2">
   <advance width="1106"/>
   <unicode hex="00E8"/>
-  <anchor x="601" y="0" name="bottom"/>
-  <anchor x="1015" y="22" name="ogonek"/>
-  <anchor x="545" y="1442" name="top"/>
+  <anchor x="597" y="0" name="bottom"/>
+  <anchor x="998" y="22" name="ogonek"/>
+  <anchor x="531" y="1478" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="gravecomb" xOffset="314" yOffset="87"/>
+    <component base="gravecomb" xOffset="207" yOffset="131"/>
   </outline>
   <lib>
   <dict>

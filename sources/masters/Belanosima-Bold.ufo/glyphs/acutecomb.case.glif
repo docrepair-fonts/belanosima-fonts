@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb.case" format="2">
-  <advance width="324"/>
-  <anchor x="37" y="1303" name="_top"/>
-  <anchor x="194" y="1915" name="top"/>
+  <advance width="279"/>
+  <anchor x="100" y="1227" name="_top"/>
+  <anchor x="261" y="1786" name="top"/>
   <outline>
     <contour>
-      <point x="315" y="1648" type="curve" smooth="yes"/>
-      <point x="50" y="1648" type="line" smooth="yes"/>
-      <point x="21" y="1648"/>
-      <point x="4" y="1635"/>
-      <point x="-7" y="1608" type="curve" smooth="yes"/>
-      <point x="-21" y="1573"/>
-      <point x="-79" y="1427"/>
-      <point x="-79" y="1400" type="curve" smooth="yes"/>
-      <point x="-79" y="1362"/>
-      <point x="-44" y="1355"/>
-      <point x="-13" y="1355" type="curve" smooth="yes"/>
-      <point x="120" y="1355" type="line" smooth="yes"/>
-      <point x="135" y="1355"/>
-      <point x="148" y="1360"/>
-      <point x="160" y="1370" type="curve" smooth="yes"/>
-      <point x="226" y="1425"/>
-      <point x="290" y="1483"/>
-      <point x="355" y="1539" type="curve" smooth="yes"/>
-      <point x="373" y="1554"/>
-      <point x="410" y="1587"/>
-      <point x="410" y="1613" type="curve" smooth="yes"/>
-      <point x="410" y="1648"/>
-      <point x="337" y="1648"/>
+      <point x="414" y="1578" type="curve" smooth="yes"/>
+      <point x="179" y="1578" type="line" smooth="yes"/>
+      <point x="163" y="1578"/>
+      <point x="151" y="1571"/>
+      <point x="143" y="1557" type="curve" smooth="yes"/>
+      <point x="122" y="1521"/>
+      <point x="15" y="1337"/>
+      <point x="15" y="1309" type="curve" smooth="yes"/>
+      <point x="15" y="1288"/>
+      <point x="46" y="1285"/>
+      <point x="61" y="1285" type="curve" smooth="yes"/>
+      <point x="157" y="1285" type="line" smooth="yes"/>
+      <point x="215" y="1285"/>
+      <point x="474" y="1524"/>
+      <point x="474" y="1561" type="curve" smooth="yes"/>
+      <point x="474" y="1578"/>
+      <point x="426" y="1578"/>
     </contour>
   </outline>
   <lib>
@@ -35,13 +29,13 @@
   <key>com.schriftgestaltung.Glyphs.originalWidth</key>
   <real>265</real>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>488984626dde24a526afdb810a5cc4f03b3e4f26e73389e0a7757f75cedbc85ec4c91a409d6b3ec8d42c53dc620744511ba849f5bf002d6958f71542a88ac0e9</string>
+    <string>d766b0278475db0a8643fccb091da0fd3846efa36fda4a14336812dd03b084eafa5675d5793140d3c6024b18e99f0f70aff69d9abd18194eed184062f7862006</string>
     <key>hintSetList</key>
     <array>
       <dict>

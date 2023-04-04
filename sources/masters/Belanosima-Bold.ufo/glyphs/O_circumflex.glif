@@ -7,10 +7,10 @@
   <anchor x="1232" y="19" name="ogonek"/>
   <anchor x="24" y="1374" name="topleft"/>
   <anchor x="912" y="1531" name="topright"/>
-  <anchor x="796" y="1941" name="top"/>
+  <anchor x="796" y="1928" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb.case" xOffset="409" yOffset="436"/>
+    <component base="circumflexcomb.case" xOffset="427" yOffset="441"/>
   </outline>
   <lib>
   <dict>

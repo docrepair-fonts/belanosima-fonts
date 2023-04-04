@@ -4,31 +4,28 @@
   <unicode hex="2019"/>
   <outline>
     <contour>
-      <point x="588" y="1527" type="curve" smooth="yes"/>
-      <point x="588" y="1562"/>
-      <point x="565" y="1577"/>
-      <point x="532" y="1575" type="curve" smooth="yes"/>
-      <point x="326" y="1565" type="line" smooth="yes"/>
-      <point x="273" y="1562"/>
-      <point x="260" y="1538"/>
-      <point x="254" y="1489" type="curve" smooth="yes"/>
-      <point x="247" y="1433"/>
-      <point x="228" y="1386"/>
-      <point x="196" y="1340" type="curve" smooth="yes"/>
-      <point x="184" y="1323"/>
-      <point x="168" y="1299"/>
-      <point x="168" y="1278" type="curve" smooth="yes"/>
-      <point x="168" y="1248"/>
-      <point x="205" y="1234"/>
-      <point x="229" y="1226" type="curve" smooth="yes"/>
-      <point x="254" y="1218"/>
-      <point x="314" y="1192"/>
-      <point x="338" y="1192" type="curve" smooth="yes"/>
-      <point x="345" y="1192"/>
-      <point x="352" y="1194"/>
-      <point x="358" y="1197" type="curve"/>
-      <point x="467" y="1246"/>
-      <point x="588" y="1405"/>
+      <point x="589" y="1527" type="curve" smooth="yes"/>
+      <point x="589" y="1553"/>
+      <point x="579" y="1567"/>
+      <point x="551" y="1566" type="curve" smooth="yes"/>
+      <point x="300" y="1555" type="line" smooth="yes"/>
+      <point x="265" y="1553"/>
+      <point x="255" y="1535"/>
+      <point x="255" y="1503" type="curve" smooth="yes"/>
+      <point x="254" y="1388"/>
+      <point x="165" y="1317"/>
+      <point x="165" y="1276" type="curve" smooth="yes"/>
+      <point x="165" y="1239"/>
+      <point x="305" y="1201"/>
+      <point x="337" y="1201" type="curve" smooth="yes"/>
+      <point x="340" y="1201"/>
+      <point x="342" y="1202"/>
+      <point x="345" y="1203" type="curve"/>
+      <point x="348" y="1202"/>
+      <point x="356" y="1206"/>
+      <point x="358" y="1207" type="curve" smooth="yes"/>
+      <point x="467" y="1260"/>
+      <point x="589" y="1401"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +37,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a2aa90b6317672bf2006f5890921519f190fe48e99e362d8c5543c08e7b0a6a8d4634d503a1c86e054ab2e113844833db40b7f5c78f685b28ad993621123c57d</string>
+    <string>c230ad58c9a9f7da28c4c1072619983df04605121e736de6a165d1aab3028af36968dbefa2bdd79746be93694044db80bd03745474a66f5dd50c933de19ae7eb</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -4,18 +4,18 @@
   <unicode hex="2022"/>
   <outline>
     <contour>
-      <point x="117" y="643" type="curve" smooth="yes"/>
-      <point x="117" y="456"/>
-      <point x="286" y="338"/>
-      <point x="461" y="338" type="curve" smooth="yes"/>
-      <point x="637" y="338"/>
-      <point x="810" y="454"/>
-      <point x="810" y="643" type="curve" smooth="yes"/>
-      <point x="810" y="825"/>
-      <point x="638" y="955"/>
-      <point x="465" y="955" type="curve" smooth="yes"/>
-      <point x="290" y="955"/>
-      <point x="117" y="829"/>
+      <point x="58" y="642" type="curve" smooth="yes"/>
+      <point x="58" y="420"/>
+      <point x="246" y="266"/>
+      <point x="460" y="266" type="curve" smooth="yes"/>
+      <point x="675" y="266"/>
+      <point x="869" y="416"/>
+      <point x="869" y="642" type="curve" smooth="yes"/>
+      <point x="869" y="865"/>
+      <point x="675" y="1025"/>
+      <point x="460" y="1025" type="curve" smooth="yes"/>
+      <point x="247" y="1025"/>
+      <point x="58" y="861"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w924m117,643c117,456 286,338 461,338c637,338 810,454 810,643c810,825 638,955 465,955c290,955 117,829 117,643</string>
+    <string>w924m58,642c58,420 246,266 460,266c675,266 869,416 869,642c869,865 675,1025 460,1025c247,1025 58,861 58,642</string>
     <key>hintSetList</key>
     <array>
       <dict>

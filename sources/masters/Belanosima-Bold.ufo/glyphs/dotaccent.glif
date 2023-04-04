@@ -4,28 +4,30 @@
   <unicode hex="02D9"/>
   <outline>
     <contour>
-      <point x="164" y="1437" type="curve" smooth="yes"/>
-      <point x="164" y="1314"/>
-      <point x="286" y="1233"/>
-      <point x="399" y="1233" type="curve" smooth="yes"/>
-      <point x="511" y="1233"/>
-      <point x="636" y="1312"/>
-      <point x="636" y="1435" type="curve" smooth="yes"/>
-      <point x="636" y="1558"/>
-      <point x="518" y="1644"/>
-      <point x="402" y="1644" type="curve" smooth="yes"/>
-      <point x="286" y="1644"/>
-      <point x="164" y="1562"/>
+      <point x="166" y="1351" type="curve" smooth="yes"/>
+      <point x="166" y="1239"/>
+      <point x="307" y="1183"/>
+      <point x="401" y="1183" type="curve" smooth="yes"/>
+      <point x="495" y="1183"/>
+      <point x="631" y="1238"/>
+      <point x="631" y="1349" type="curve" smooth="yes"/>
+      <point x="631" y="1467"/>
+      <point x="498" y="1518"/>
+      <point x="398" y="1518" type="curve" smooth="yes"/>
+      <point x="303" y="1518"/>
+      <point x="166" y="1464"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w799m164,1437c164,1314 286,1233 399,1233c511,1233 636,1312 636,1435c636,1558 518,1644 402,1644c286,1644 164,1562 164,1437</string>
+    <string>w799m166,1351c166,1239 307,1183 401,1183c495,1183 631,1238 631,1349c631,1467 498,1518 398,1518c303,1518 166,1464 166,1351</string>
     <key>hintSetList</key>
     <array>
       <dict>

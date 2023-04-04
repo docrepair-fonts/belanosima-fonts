@@ -5,30 +5,32 @@
   <unicode hex="00AD"/>
   <outline>
     <contour>
-      <point x="102" y="350" type="curve" smooth="yes"/>
-      <point x="102" y="315"/>
-      <point x="119" y="298"/>
-      <point x="154" y="298" type="curve" smooth="yes"/>
-      <point x="711" y="298" type="line" smooth="yes"/>
-      <point x="746" y="298"/>
-      <point x="763" y="315"/>
-      <point x="763" y="350" type="curve" smooth="yes"/>
-      <point x="763" y="422"/>
-      <point x="761" y="495"/>
-      <point x="761" y="567" type="curve" smooth="yes"/>
-      <point x="761" y="601"/>
-      <point x="744" y="618"/>
-      <point x="710" y="618" type="curve" smooth="yes"/>
-      <point x="155" y="618" type="line" smooth="yes"/>
-      <point x="121" y="618"/>
-      <point x="104" y="601"/>
-      <point x="104" y="567" type="curve" smooth="yes"/>
-      <point x="104" y="495"/>
-      <point x="102" y="422"/>
+      <point x="103" y="365" type="curve" smooth="yes"/>
+      <point x="103" y="330"/>
+      <point x="118" y="313"/>
+      <point x="154" y="313" type="curve" smooth="yes"/>
+      <point x="711" y="313" type="line" smooth="yes"/>
+      <point x="747" y="313"/>
+      <point x="762" y="330"/>
+      <point x="762" y="365" type="curve" smooth="yes"/>
+      <point x="762" y="422"/>
+      <point x="761" y="479"/>
+      <point x="761" y="536" type="curve" smooth="yes"/>
+      <point x="761" y="570"/>
+      <point x="744" y="587"/>
+      <point x="710" y="587" type="curve" smooth="yes"/>
+      <point x="155" y="587" type="line" smooth="yes"/>
+      <point x="121" y="587"/>
+      <point x="104" y="570"/>
+      <point x="104" y="536" type="curve" smooth="yes"/>
+      <point x="104" y="479"/>
+      <point x="103" y="422"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>public.markColor</key>
+      <string>0.6,1,0.602,1</string>
       <key>public.postscript.hints</key>
       <dict>
         <key>formatVersion</key>
@@ -43,7 +45,7 @@
           </dict>
         </array>
         <key>id</key>
-        <string>1f1c606756922439b460390825ff84ec9b677bd8d1cda32f76ac472c1d143724a8e6777036f3b95cb12bccc890397b18004581531ae4bf073fe656f980a50ec5</string>
+        <string>f9e505928e55c1426c8455e3b492173bcf532301645468eca7ab90393f775678d230ad06bb0169fb773af9b3edf3b138fcf3bdf17f7fbc69271cf9dea3d8f446</string>
       </dict>
     </dict>
   </lib>

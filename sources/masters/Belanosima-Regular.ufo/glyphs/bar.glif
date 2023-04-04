@@ -6,22 +6,22 @@
     <contour>
       <point x="137" y="1458" type="curve" smooth="yes"/>
       <point x="137" y="1212"/>
-      <point x="141" y="966"/>
-      <point x="141" y="720" type="curve" smooth="yes"/>
-      <point x="141" y="325"/>
-      <point x="129" y="-69"/>
-      <point x="129" y="-464" type="curve" smooth="yes"/>
-      <point x="129" y="-491"/>
-      <point x="144" y="-506"/>
-      <point x="171" y="-506" type="curve" smooth="yes"/>
-      <point x="326" y="-506" type="line" smooth="yes"/>
-      <point x="354" y="-506"/>
-      <point x="368" y="-491"/>
-      <point x="368" y="-464" type="curve" smooth="yes"/>
-      <point x="368" y="-69"/>
-      <point x="357" y="325"/>
-      <point x="357" y="720" type="curve" smooth="yes"/>
-      <point x="357" y="966"/>
+      <point x="139" y="966"/>
+      <point x="139" y="720" type="curve" smooth="yes"/>
+      <point x="139" y="326"/>
+      <point x="133" y="-67"/>
+      <point x="133" y="-460" type="curve" smooth="yes"/>
+      <point x="133" y="-487"/>
+      <point x="147" y="-501"/>
+      <point x="174" y="-501" type="curve" smooth="yes"/>
+      <point x="324" y="-501" type="line" smooth="yes"/>
+      <point x="351" y="-501"/>
+      <point x="365" y="-487"/>
+      <point x="365" y="-460" type="curve" smooth="yes"/>
+      <point x="365" y="-67"/>
+      <point x="359" y="326"/>
+      <point x="359" y="720" type="curve" smooth="yes"/>
+      <point x="359" y="966"/>
       <point x="361" y="1212"/>
       <point x="361" y="1458" type="curve" smooth="yes"/>
       <point x="361" y="1485"/>
@@ -35,13 +35,13 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ea338b8a4796eafb0680b89c4c250a78c347beaecb27ef3e4f8b35664331c1e37a3bb693ee439a0e0c89025c29f92945f0a13f7c95683db151584144fd7b65ae</string>
+    <string>fc7dd5abc2d80adbff15c49fb7ad966566ecedfc98776a55842585e7c6adc84b755a47da9000ace92f23468db24bd5c085e03ead0a9860c1aa0a837049e12054</string>
     <key>hintSetList</key>
     <array>
       <dict>

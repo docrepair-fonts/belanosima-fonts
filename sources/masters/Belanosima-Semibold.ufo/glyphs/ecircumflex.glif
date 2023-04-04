@@ -2,12 +2,12 @@
 <glyph name="ecircumflex" format="2">
   <advance width="1026"/>
   <unicode hex="00EA"/>
-  <anchor x="563" y="0" name="bottom"/>
-  <anchor x="974" y="22" name="ogonek"/>
-  <anchor x="593" y="1499" name="top"/>
+  <anchor x="562" y="0" name="bottom"/>
+  <anchor x="968" y="22" name="ogonek"/>
+  <anchor x="592" y="1522" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="circumflexcomb" xOffset="129" yOffset="74"/>
+    <component base="circumflexcomb" xOffset="128" yOffset="102"/>
   </outline>
   <lib>
   <dict>

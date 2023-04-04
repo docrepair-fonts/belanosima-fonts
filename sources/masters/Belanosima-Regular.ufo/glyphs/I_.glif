@@ -8,9 +8,12 @@
   <anchor x="-135" y="1402" name="topleft"/>
   <outline>
     <contour>
-      <point x="117" y="768" type="curve" smooth="yes"/>
-      <point x="117" y="525"/>
-      <point x="115" y="283"/>
+      <point x="115" y="1361" type="curve" smooth="yes"/>
+      <point x="115" y="1141"/>
+      <point x="117" y="921"/>
+      <point x="117" y="701" type="curve" smooth="yes"/>
+      <point x="117" y="481"/>
+      <point x="115" y="261"/>
       <point x="115" y="41" type="curve" smooth="yes"/>
       <point x="115" y="14"/>
       <point x="129" y="0"/>
@@ -26,17 +29,11 @@
       <point x="370" y="1141"/>
       <point x="370" y="1361" type="curve" smooth="yes"/>
       <point x="370" y="1388"/>
-      <point x="355" y="1402"/>
+      <point x="356" y="1402"/>
       <point x="329" y="1402" type="curve" smooth="yes"/>
       <point x="156" y="1402" type="line" smooth="yes"/>
-      <point x="126" y="1402"/>
-      <point x="118" y="1388"/>
-      <point x="116" y="1361" type="curve" smooth="yes"/>
-      <point x="112" y="1313"/>
-      <point x="117" y="1230"/>
-      <point x="117" y="1178" type="curve" smooth="yes"/>
-      <point x="117" y="1042"/>
-      <point x="117" y="905"/>
+      <point x="129" y="1402"/>
+      <point x="115" y="1388"/>
     </contour>
   </outline>
   <lib>
@@ -46,7 +43,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2a024a5ae1c39340e99185ff9359b745c70110f34d8caaf07cfb2ebce0100e630d8b85f658f1b7e5aed96f1cec768c3a2a060b60c652e3b8bb68b6c587b6f56a</string>
+    <string>088e860f27d1433f0b6b736b58c62a1836e183c6f3e0d7962c2f7be0eb76cf787ac27511ad07336959d7f4ea4de9e42a78df2d464ac6f565acee3cc8b758f033</string>
     <key>hintSetList</key>
     <array>
       <dict>

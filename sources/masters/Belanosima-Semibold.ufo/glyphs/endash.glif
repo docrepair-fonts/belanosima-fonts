@@ -4,26 +4,26 @@
   <unicode hex="2013"/>
   <outline>
     <contour>
-      <point x="160" y="393" type="curve" smooth="yes"/>
-      <point x="160" y="358"/>
-      <point x="175" y="341"/>
-      <point x="211" y="341" type="curve" smooth="yes"/>
-      <point x="1045" y="341" type="line" smooth="yes"/>
-      <point x="1081" y="341"/>
-      <point x="1096" y="358"/>
-      <point x="1096" y="393" type="curve" smooth="yes"/>
-      <point x="1096" y="463"/>
-      <point x="1096" y="535"/>
-      <point x="1094" y="605" type="curve" smooth="yes"/>
-      <point x="1093" y="639"/>
-      <point x="1078" y="656"/>
-      <point x="1043" y="656" type="curve" smooth="yes"/>
-      <point x="213" y="656" type="line" smooth="yes"/>
-      <point x="178" y="656"/>
-      <point x="163" y="639"/>
-      <point x="162" y="605" type="curve" smooth="yes"/>
-      <point x="160" y="535"/>
-      <point x="160" y="463"/>
+      <point x="158" y="399" type="curve" smooth="yes"/>
+      <point x="158" y="364"/>
+      <point x="173" y="347"/>
+      <point x="209" y="347" type="curve" smooth="yes"/>
+      <point x="1047" y="347" type="line" smooth="yes"/>
+      <point x="1083" y="347"/>
+      <point x="1098" y="364"/>
+      <point x="1098" y="399" type="curve" smooth="yes"/>
+      <point x="1098" y="455"/>
+      <point x="1097" y="510"/>
+      <point x="1097" y="566" type="curve" smooth="yes"/>
+      <point x="1097" y="600"/>
+      <point x="1080" y="617"/>
+      <point x="1046" y="617" type="curve" smooth="yes"/>
+      <point x="211" y="617" type="line" smooth="yes"/>
+      <point x="176" y="617"/>
+      <point x="161" y="600"/>
+      <point x="160" y="566" type="curve" smooth="yes"/>
+      <point x="158" y="511"/>
+      <point x="158" y="455"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>067e754bac6bde668dd88e5010987e97d9f219b02a29de47a65236cc1787c0b238b15b9ef5dd0dc1ad090b92d48e4fca0bea450a94c644f44dc59bd329ebada4</string>
+    <string>38bb2f4029f7154d26215e3c9ffc17b3b8abf1409886a59eb07ee6dc49d56dd27ecb5700e4cec9d16fe484a1f29b32063ed2c69a3eada73dad063eac8364af58</string>
     <key>hintSetList</key>
     <array>
       <dict>

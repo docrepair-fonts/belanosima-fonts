@@ -5,10 +5,10 @@
   <anchor x="633" y="0" name="bottom"/>
   <anchor x="964" y="19" name="ogonek"/>
   <anchor x="122" y="1374" name="topleft"/>
-  <anchor x="633" y="1972" name="top"/>
+  <anchor x="633" y="1959" name="top"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexcomb.case" xOffset="246" yOffset="467"/>
+    <component base="circumflexcomb.case" xOffset="264" yOffset="472"/>
   </outline>
   <lib>
   <dict>

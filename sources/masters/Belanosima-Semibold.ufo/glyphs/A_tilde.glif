@@ -4,10 +4,10 @@
   <unicode hex="00C3"/>
   <anchor x="711" y="0" name="bottom"/>
   <anchor x="1246" y="20" name="ogonek"/>
-  <anchor x="711" y="2088" name="top"/>
+  <anchor x="711" y="2057" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="tildecomb.case" xOffset="207" yOffset="-154"/>
+    <component base="tildecomb.case" xOffset="207" yOffset="-62"/>
   </outline>
   <lib>
   <dict>

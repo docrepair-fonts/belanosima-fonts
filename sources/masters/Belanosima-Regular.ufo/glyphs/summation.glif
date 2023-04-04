@@ -4,91 +4,86 @@
   <unicode hex="2211"/>
   <outline>
     <contour>
-      <point x="-1" y="-157" type="curve" smooth="yes"/>
-      <point x="-1" y="-184"/>
-      <point x="18" y="-190"/>
-      <point x="41" y="-190" type="curve" smooth="yes"/>
-      <point x="689" y="-190" type="line" smooth="yes"/>
-      <point x="708" y="-190"/>
-      <point x="732" y="-185"/>
-      <point x="732" y="-161" type="curve" smooth="yes"/>
-      <point x="732" y="-145"/>
-      <point x="695" y="-24"/>
+      <point x="193" y="706" type="curve"/>
+      <point x="181" y="651" type="line"/>
+      <point x="146" y="488" type="line" smooth="yes"/>
+      <point x="101" y="279"/>
+      <point x="52" y="70"/>
+      <point x="4" y="-138" type="curve"/>
+      <point x="3" y="-144"/>
+      <point x="2" y="-150"/>
+      <point x="2" y="-156" type="curve" smooth="yes"/>
+      <point x="2" y="-182"/>
+      <point x="21" y="-189"/>
+      <point x="44" y="-189" type="curve" smooth="yes"/>
+      <point x="686" y="-189" type="line" smooth="yes"/>
+      <point x="708" y="-189"/>
+      <point x="729" y="-183"/>
+      <point x="729" y="-157" type="curve" smooth="yes"/>
+      <point x="729" y="-141"/>
+      <point x="694" y="-26"/>
       <point x="687" y="-5" type="curve" smooth="yes"/>
-      <point x="679" y="15"/>
-      <point x="672" y="25"/>
+      <point x="680" y="15"/>
+      <point x="671" y="25"/>
       <point x="648" y="25" type="curve" smooth="yes"/>
       <point x="289" y="25" type="line" smooth="yes"/>
-      <point x="283" y="25"/>
-      <point x="277" y="33"/>
-      <point x="277" y="39" type="curve" smooth="yes"/>
-      <point x="277" y="62"/>
-      <point x="310" y="198"/>
-      <point x="317" y="231" type="curve" smooth="yes"/>
-      <point x="349" y="388"/>
-      <point x="382" y="544"/>
-      <point x="414" y="701" type="curve"/>
-      <point x="415" y="705"/>
-      <point x="415" y="709"/>
-      <point x="415" y="713" type="curve" smooth="yes"/>
-      <point x="415" y="714"/>
-      <point x="414" y="716"/>
-      <point x="414" y="717" type="curve"/>
-      <point x="369" y="937"/>
-      <point x="324" y="1158"/>
-      <point x="278" y="1378" type="curve"/>
-      <point x="278" y="1380"/>
-      <point x="277" y="1381"/>
-      <point x="277" y="1383" type="curve" smooth="yes"/>
-      <point x="277" y="1389"/>
-      <point x="283" y="1393"/>
+      <point x="282" y="25"/>
+      <point x="277" y="28"/>
+      <point x="277" y="35" type="curve" smooth="yes"/>
+      <point x="277" y="40" type="line"/>
+      <point x="320" y="261"/>
+      <point x="371" y="480"/>
+      <point x="415" y="701" type="curve"/>
+      <point x="416" y="704"/>
+      <point x="416" y="706"/>
+      <point x="416" y="709" type="curve" smooth="yes"/>
+      <point x="416" y="712"/>
+      <point x="416" y="714"/>
+      <point x="415" y="717" type="curve"/>
+      <point x="371" y="938"/>
+      <point x="323" y="1158"/>
+      <point x="277" y="1378" type="curve"/>
+      <point x="277" y="1383" type="line" smooth="yes"/>
+      <point x="277" y="1390"/>
+      <point x="282" y="1393"/>
       <point x="289" y="1393" type="curve" smooth="yes"/>
-      <point x="646" y="1393" type="line" smooth="yes"/>
-      <point x="670" y="1393"/>
-      <point x="678" y="1401"/>
+      <point x="647" y="1393" type="line" smooth="yes"/>
+      <point x="669" y="1393"/>
+      <point x="680" y="1402"/>
       <point x="687" y="1422" type="curve" smooth="yes"/>
-      <point x="694" y="1438"/>
-      <point x="731" y="1566"/>
-      <point x="731" y="1580" type="curve" smooth="yes"/>
-      <point x="731" y="1603"/>
-      <point x="706" y="1608"/>
-      <point x="688" y="1608" type="curve" smooth="yes"/>
-      <point x="42" y="1608" type="line" smooth="yes"/>
-      <point x="16" y="1608"/>
-      <point x="0" y="1600"/>
-      <point x="0" y="1572" type="curve" smooth="yes"/>
-      <point x="0" y="1570"/>
-      <point x="2" y="1560"/>
-      <point x="3" y="1558" type="curve"/>
-      <point x="48" y="1367"/>
-      <point x="96" y="1177"/>
-      <point x="138" y="985" type="curve" smooth="yes"/>
-      <point x="157" y="897"/>
-      <point x="185" y="801"/>
-      <point x="196" y="712" type="curve"/>
-      <point x="196" y="710"/>
-      <point x="196" y="708"/>
-      <point x="196" y="706" type="curve" smooth="yes"/>
-      <point x="196" y="698"/>
-      <point x="154" y="509"/>
-      <point x="150" y="488" type="curve" smooth="yes"/>
-      <point x="105" y="279"/>
-      <point x="50" y="72"/>
-      <point x="2" y="-136" type="curve"/>
-      <point x="1" y="-142"/>
-      <point x="-1" y="-151"/>
+      <point x="693" y="1439"/>
+      <point x="728" y="1562"/>
+      <point x="728" y="1575" type="curve" smooth="yes"/>
+      <point x="728" y="1601"/>
+      <point x="707" y="1607"/>
+      <point x="685" y="1607" type="curve" smooth="yes"/>
+      <point x="45" y="1607" type="line" smooth="yes"/>
+      <point x="23" y="1607"/>
+      <point x="3" y="1600"/>
+      <point x="3" y="1574" type="curve" smooth="yes"/>
+      <point x="3" y="1568"/>
+      <point x="4" y="1563"/>
+      <point x="5" y="1557" type="curve"/>
+      <point x="49" y="1366"/>
+      <point x="93" y="1176"/>
+      <point x="134" y="985" type="curve" smooth="yes"/>
+      <point x="154" y="894"/>
+      <point x="177" y="803"/>
+      <point x="193" y="712" type="curve"/>
+      <point x="193" y="710"/>
+      <point x="193" y="708"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ef432a7220b87e93358eb81f919eb6703b1a753003a9d147616b8650f3bfe6a9e9929e35f1e65890374e2bb89358c3f4c6cd5a3f2ec2cebad87fa91db1d4eba2</string>
+    <string>37e7b7a7328023cd04f3ce4a77cc9e019a5ff61bb862d06dc3c22734f5ed0c384d1daede40f00f28a8fc1dc27b105287dcc761869d054f00ba52e81fd5bf11cf</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -7,10 +7,10 @@
   <anchor x="1154" y="20" name="ogonek"/>
   <anchor x="21" y="1427" name="topleft"/>
   <anchor x="894" y="1616" name="topright"/>
-  <anchor x="769" y="2016" name="top"/>
+  <anchor x="769" y="1985" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="tildecomb.case" xOffset="265" yOffset="-226"/>
+    <component base="tildecomb.case" xOffset="265" yOffset="-134"/>
   </outline>
   <lib>
   <dict>

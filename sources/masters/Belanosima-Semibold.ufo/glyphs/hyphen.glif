@@ -5,26 +5,26 @@
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="143" y="397" type="curve" smooth="yes"/>
-      <point x="143" y="362"/>
-      <point x="160" y="345"/>
-      <point x="195" y="345" type="curve" smooth="yes"/>
-      <point x="664" y="345" type="line" smooth="yes"/>
-      <point x="699" y="345"/>
-      <point x="716" y="362"/>
-      <point x="716" y="397" type="curve" smooth="yes"/>
-      <point x="716" y="470"/>
-      <point x="715" y="542"/>
-      <point x="715" y="615" type="curve" smooth="yes"/>
-      <point x="715" y="649"/>
-      <point x="698" y="666"/>
-      <point x="664" y="666" type="curve" smooth="yes"/>
-      <point x="195" y="666" type="line" smooth="yes"/>
-      <point x="161" y="666"/>
-      <point x="144" y="649"/>
-      <point x="144" y="615" type="curve" smooth="yes"/>
-      <point x="144" y="542"/>
-      <point x="143" y="470"/>
+      <point x="141" y="405" type="curve" smooth="yes"/>
+      <point x="141" y="370"/>
+      <point x="158" y="353"/>
+      <point x="193" y="353" type="curve" smooth="yes"/>
+      <point x="665" y="353" type="line" smooth="yes"/>
+      <point x="700" y="353"/>
+      <point x="717" y="370"/>
+      <point x="717" y="405" type="curve" smooth="yes"/>
+      <point x="717" y="462"/>
+      <point x="716" y="518"/>
+      <point x="716" y="575" type="curve" smooth="yes"/>
+      <point x="716" y="609"/>
+      <point x="699" y="626"/>
+      <point x="665" y="626" type="curve" smooth="yes"/>
+      <point x="193" y="626" type="line" smooth="yes"/>
+      <point x="159" y="626"/>
+      <point x="142" y="609"/>
+      <point x="142" y="575" type="curve" smooth="yes"/>
+      <point x="142" y="518"/>
+      <point x="141" y="462"/>
     </contour>
   </outline>
   <lib>
@@ -47,7 +47,7 @@
           </dict>
         </array>
         <key>id</key>
-        <string>dae968fd7a3c5b4a661133bdef03e1893bb95a5c39a5fff1a9d90698df7657beca000872167badc28bd660c22de5b27afd8ff1a2d6fde77ae22b3f4ff1aaf2d8</string>
+        <string>39237d8216f7fe4225e27cbd3feed19c05aa6f701c17f71ad3c7b02d6cc72bf8281d9f000bd668f44dfe6b74149d50b7852a4eacfbc3a2372d218ed2ed4f74cb</string>
       </dict>
     </dict>
   </lib>

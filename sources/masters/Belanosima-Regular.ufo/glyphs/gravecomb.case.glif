@@ -5,32 +5,32 @@
   <anchor x="286" y="1554" name="top"/>
   <outline>
     <contour>
-      <point x="337" y="1213" type="curve" smooth="yes"/>
-      <point x="398" y="1213" type="line" smooth="yes"/>
-      <point x="413" y="1213"/>
-      <point x="444" y="1217"/>
-      <point x="444" y="1237" type="curve" smooth="yes"/>
-      <point x="444" y="1272"/>
-      <point x="343" y="1439"/>
-      <point x="320" y="1478" type="curve" smooth="yes"/>
-      <point x="312" y="1492"/>
-      <point x="301" y="1498"/>
-      <point x="285" y="1498" type="curve" smooth="yes"/>
-      <point x="134" y="1498" type="line" smooth="yes"/>
-      <point x="119" y="1498"/>
-      <point x="80" y="1497"/>
+      <point x="339" y="1214" type="curve" smooth="yes"/>
+      <point x="401" y="1214" type="line" smooth="yes"/>
+      <point x="419" y="1214"/>
+      <point x="448" y="1217"/>
+      <point x="448" y="1241" type="curve" smooth="yes"/>
+      <point x="448" y="1253"/>
+      <point x="442" y="1265"/>
+      <point x="436" y="1275" type="curve" smooth="yes"/>
+      <point x="398" y="1342"/>
+      <point x="361" y="1413"/>
+      <point x="319" y="1478" type="curve" smooth="yes"/>
+      <point x="311" y="1491"/>
+      <point x="299" y="1498"/>
+      <point x="284" y="1498" type="curve" smooth="yes"/>
+      <point x="139" y="1498" type="line" smooth="yes"/>
+      <point x="124" y="1498"/>
+      <point x="80" y="1498"/>
       <point x="80" y="1474" type="curve" smooth="yes"/>
-      <point x="80" y="1473"/>
-      <point x="81" y="1471"/>
-      <point x="81" y="1470" type="curve"/>
-      <point x="85" y="1453"/>
-      <point x="98" y="1440"/>
+      <point x="80" y="1458"/>
+      <point x="99" y="1439"/>
       <point x="110" y="1428" type="curve" smooth="yes"/>
-      <point x="175" y="1360"/>
-      <point x="239" y="1289"/>
-      <point x="308" y="1225" type="curve"/>
-      <point x="316" y="1218"/>
-      <point x="326" y="1213"/>
+      <point x="176" y="1361"/>
+      <point x="241" y="1291"/>
+      <point x="310" y="1226" type="curve"/>
+      <point x="318" y="1218"/>
+      <point x="328" y="1214"/>
     </contour>
   </outline>
   <lib>
@@ -38,13 +38,13 @@
   <key>com.schriftgestaltung.Glyphs.originalWidth</key>
   <real>317</real>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>90fe30c7668a9d3a30ee66a7fa5ba42e8235fd3d8383ae7e1d443c4c31787fd6e4d3ac83d1c3400b7778d364babe1ff5d867cf8224a253ea666f4ec79de5df19</string>
+    <string>242d312a8929bd6a9cfd86872ef22639f7b01beca87336ff9361e76f3de59d2d9403640ff4ad473e7fc9f5efda270873bdf5a8c031012e0fa9de09f0aed0e595</string>
     <key>hintSetList</key>
     <array>
       <dict>

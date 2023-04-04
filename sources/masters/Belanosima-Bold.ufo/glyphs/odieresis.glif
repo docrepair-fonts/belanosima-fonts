@@ -3,13 +3,13 @@
   <advance width="1118"/>
   <unicode hex="00F6"/>
   <anchor x="561" y="0" name="bottom"/>
-  <anchor x="561" y="510" name="center"/>
-  <anchor x="1074" y="22" name="ogonek"/>
-  <anchor x="957" y="1017" name="topright"/>
-  <anchor x="561" y="1494" name="top"/>
+  <anchor x="561" y="511" name="center"/>
+  <anchor x="1079" y="22" name="ogonek"/>
+  <anchor x="967" y="1019" name="topright"/>
+  <anchor x="561" y="1477" name="top"/>
   <outline>
     <component base="o"/>
-    <component base="dieresiscomb" xOffset="90" yOffset="83"/>
+    <component base="dieresiscomb" xOffset="208" yOffset="128"/>
   </outline>
   <lib>
   <dict>

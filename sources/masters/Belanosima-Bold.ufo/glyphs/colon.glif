@@ -4,32 +4,32 @@
   <unicode hex="003A"/>
   <outline>
     <contour>
-      <point x="94" y="860" type="curve" smooth="yes"/>
-      <point x="94" y="743"/>
-      <point x="192" y="651"/>
-      <point x="308" y="651" type="curve" smooth="yes"/>
-      <point x="424" y="651"/>
-      <point x="527" y="741"/>
-      <point x="527" y="860" type="curve" smooth="yes"/>
-      <point x="527" y="974"/>
-      <point x="421" y="1071"/>
-      <point x="309" y="1071" type="curve" smooth="yes"/>
-      <point x="195" y="1071"/>
-      <point x="94" y="975"/>
+      <point x="97" y="794" type="curve" smooth="yes"/>
+      <point x="97" y="687"/>
+      <point x="212" y="625"/>
+      <point x="308" y="625" type="curve" smooth="yes"/>
+      <point x="404" y="625"/>
+      <point x="523" y="685"/>
+      <point x="523" y="794" type="curve" smooth="yes"/>
+      <point x="523" y="898"/>
+      <point x="401" y="967"/>
+      <point x="308" y="967" type="curve" smooth="yes"/>
+      <point x="216" y="967"/>
+      <point x="97" y="896"/>
     </contour>
     <contour>
-      <point x="92" y="206" type="curve" smooth="yes"/>
-      <point x="92" y="89"/>
-      <point x="194" y="0"/>
+      <point x="93" y="171" type="curve" smooth="yes"/>
+      <point x="93" y="59"/>
+      <point x="209" y="0"/>
       <point x="308" y="0" type="curve" smooth="yes"/>
-      <point x="422" y="0"/>
-      <point x="529" y="88"/>
-      <point x="529" y="206" type="curve" smooth="yes"/>
-      <point x="529" y="322"/>
-      <point x="424" y="422"/>
-      <point x="309" y="422" type="curve" smooth="yes"/>
-      <point x="193" y="422"/>
-      <point x="92" y="322"/>
+      <point x="407" y="0"/>
+      <point x="527" y="58"/>
+      <point x="527" y="171" type="curve" smooth="yes"/>
+      <point x="527" y="275"/>
+      <point x="400" y="344"/>
+      <point x="308" y="344" type="curve" smooth="yes"/>
+      <point x="215" y="344"/>
+      <point x="93" y="275"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>843d428e13a8a76dee489cd5e6cdd6e2afeb452e0cf5227391659dfaac937c773226dc69b62cf5846175f6be1423f58865d1811ea7adc7d6f0f1401c200b185c</string>
+    <string>f2d1798af1bb7b863ce6b64cc2009667e17559d7e4747576a0dd096212112ac59e02268083ad48204fd762dda4852118d6767bd56212f051f8e4ff12c61aad24</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -2,13 +2,13 @@
 <glyph name="uacute" format="2">
   <advance width="1194"/>
   <unicode hex="00FA"/>
-  <anchor x="597" y="0" name="bottom"/>
-  <anchor x="1336" y="22" name="ogonek"/>
-  <anchor x="1091" y="971" name="topright"/>
-  <anchor x="608" y="1393" name="top"/>
+  <anchor x="598" y="0" name="bottom"/>
+  <anchor x="1337" y="22" name="ogonek"/>
+  <anchor x="1090" y="973" name="topright"/>
+  <anchor x="608" y="1415" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="acutecomb" xOffset="343" yOffset="71"/>
+    <component base="acutecomb" xOffset="343" yOffset="99"/>
   </outline>
   <lib>
   <dict>

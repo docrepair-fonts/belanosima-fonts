@@ -1,47 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresiscomb" format="2">
-  <advance width="411"/>
+  <advance width="409"/>
   <unicode hex="0308"/>
-  <anchor x="471" y="999" name="_top"/>
-  <anchor x="471" y="1411" name="top"/>
+  <anchor x="353" y="957" name="_top"/>
+  <anchor x="353" y="1349" name="top"/>
   <outline>
     <contour>
-      <point x="75" y="1205" type="curve" smooth="yes"/>
-      <point x="75" y="1101"/>
-      <point x="163" y="1004"/>
-      <point x="269" y="1004" type="curve" smooth="yes"/>
-      <point x="388" y="1004"/>
-      <point x="439" y="1119"/>
-      <point x="462" y="1119" type="curve" smooth="yes"/>
-      <point x="485" y="1119"/>
-      <point x="532" y="1004"/>
-      <point x="654" y="1004" type="curve" smooth="yes"/>
-      <point x="764" y="1004"/>
-      <point x="848" y="1107"/>
-      <point x="848" y="1213" type="curve" smooth="yes"/>
-      <point x="848" y="1312"/>
-      <point x="763" y="1412"/>
-      <point x="660" y="1412" type="curve" smooth="yes"/>
-      <point x="537" y="1412"/>
-      <point x="487" y="1292"/>
-      <point x="463" y="1292" type="curve" smooth="yes"/>
-      <point x="442" y="1292"/>
-      <point x="389" y="1412"/>
-      <point x="272" y="1412" type="curve" smooth="yes"/>
-      <point x="163" y="1412"/>
-      <point x="75" y="1311"/>
+      <point x="-11" y="1176" type="curve" smooth="yes"/>
+      <point x="-11" y="1093"/>
+      <point x="59" y="1009"/>
+      <point x="145" y="1009" type="curve" smooth="yes"/>
+      <point x="231" y="1009"/>
+      <point x="304" y="1094"/>
+      <point x="304" y="1178" type="curve" smooth="yes"/>
+      <point x="304" y="1264"/>
+      <point x="234" y="1348"/>
+      <point x="145" y="1348" type="curve" smooth="yes"/>
+      <point x="54" y="1348"/>
+      <point x="-11" y="1263"/>
+    </contour>
+    <contour>
+      <point x="391" y="1176" type="curve" smooth="yes"/>
+      <point x="391" y="1090"/>
+      <point x="457" y="1009"/>
+      <point x="546" y="1009" type="curve" smooth="yes"/>
+      <point x="629" y="1009"/>
+      <point x="705" y="1098"/>
+      <point x="705" y="1178" type="curve" smooth="yes"/>
+      <point x="705" y="1261"/>
+      <point x="642" y="1349"/>
+      <point x="554" y="1349" type="curve" smooth="yes"/>
+      <point x="464" y="1349"/>
+      <point x="391" y="1263"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.schriftgestaltung.Glyphs.originalWidth</key>
   <real>461</real>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ac98e8f9ad4630507629c088074a7a57647a27de438e1e468ac49fe5e86ce312fd56b80e08ffde8f3a01a1bff078acd2c0326c63e9d42f6b05af699464a9b4d6</string>
+    <string>75e322dc6b457b8c6ccfbd495010aa77127ef3b34625ff9442a65caedf14228f44d3b3e6e18c6d22a627a14061c5deecd801b8de6ffedbff37fdf49d3043c063</string>
     <key>hintSetList</key>
     <array>
       <dict>

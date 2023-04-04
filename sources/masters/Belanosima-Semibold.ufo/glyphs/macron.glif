@@ -5,30 +5,32 @@
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="64" y="1148" type="curve" smooth="yes"/>
-      <point x="64" y="1098"/>
-      <point x="65" y="1048"/>
-      <point x="65" y="998" type="curve" smooth="yes"/>
-      <point x="65" y="964"/>
-      <point x="82" y="947"/>
-      <point x="116" y="947" type="curve" smooth="yes"/>
-      <point x="642" y="947" type="line" smooth="yes"/>
-      <point x="676" y="947"/>
-      <point x="693" y="964"/>
-      <point x="693" y="998" type="curve" smooth="yes"/>
-      <point x="693" y="1048"/>
-      <point x="694" y="1098"/>
-      <point x="694" y="1148" type="curve" smooth="yes"/>
-      <point x="694" y="1183"/>
-      <point x="679" y="1200"/>
-      <point x="643" y="1200" type="curve" smooth="yes"/>
-      <point x="115" y="1200" type="line" smooth="yes"/>
-      <point x="79" y="1200"/>
-      <point x="64" y="1183"/>
+      <point x="64" y="1127" type="curve" smooth="yes"/>
+      <point x="64" y="1089"/>
+      <point x="65" y="1050"/>
+      <point x="65" y="1012" type="curve" smooth="yes"/>
+      <point x="65" y="978"/>
+      <point x="82" y="961"/>
+      <point x="116" y="961" type="curve" smooth="yes"/>
+      <point x="642" y="961" type="line" smooth="yes"/>
+      <point x="676" y="961"/>
+      <point x="693" y="978"/>
+      <point x="693" y="1012" type="curve" smooth="yes"/>
+      <point x="693" y="1050"/>
+      <point x="694" y="1089"/>
+      <point x="694" y="1127" type="curve" smooth="yes"/>
+      <point x="694" y="1162"/>
+      <point x="679" y="1179"/>
+      <point x="643" y="1179" type="curve" smooth="yes"/>
+      <point x="115" y="1179" type="line" smooth="yes"/>
+      <point x="79" y="1179"/>
+      <point x="64" y="1162"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>public.markColor</key>
+      <string>0.6,1,0.602,1</string>
       <key>public.postscript.hints</key>
       <dict>
         <key>formatVersion</key>
@@ -46,7 +48,7 @@
           </dict>
         </array>
         <key>id</key>
-        <string>31db15487b112b454375bdfe2702cd8af1ea6ee967167ebc5cabae6edfa3f0f7248c3b7dda5c487c05b7b9570b76a788c3e32067f1b569549ac0aee211459685</string>
+        <string>51d5ea6c8c98958c8d104e50ca8d5ee860eae9bf88a4fca8c877252328ee1fc9660117e932d3a7c4b08f40d8a03adb46a49168c4c9ea0cb801f6554ace706de6</string>
       </dict>
     </dict>
   </lib>

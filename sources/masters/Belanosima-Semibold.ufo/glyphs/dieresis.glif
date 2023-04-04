@@ -4,61 +4,54 @@
   <unicode hex="00A8"/>
   <outline>
     <contour>
-      <point x="201" y="985" type="curve" smooth="yes"/>
-      <point x="293" y="985"/>
-      <point x="359" y="1083"/>
-      <point x="359" y="1168" type="curve" smooth="yes"/>
-      <point x="359" y="1254"/>
-      <point x="292" y="1349"/>
-      <point x="200" y="1349" type="curve" smooth="yes"/>
-      <point x="108" y="1349"/>
-      <point x="45" y="1257"/>
-      <point x="45" y="1172" type="curve" smooth="yes"/>
-      <point x="45" y="1084"/>
-      <point x="103" y="985"/>
+      <point x="199" y="989" type="curve" smooth="yes"/>
+      <point x="280" y="989"/>
+      <point x="335" y="1074"/>
+      <point x="335" y="1149" type="curve" smooth="yes"/>
+      <point x="335" y="1224"/>
+      <point x="279" y="1308"/>
+      <point x="198" y="1308" type="curve" smooth="yes"/>
+      <point x="119" y="1308"/>
+      <point x="64" y="1228"/>
+      <point x="64" y="1154" type="curve" smooth="yes"/>
+      <point x="64" y="1077"/>
+      <point x="113" y="989"/>
     </contour>
     <contour>
-      <point x="402" y="1160" type="curve" smooth="yes"/>
-      <point x="402" y="1074" name=".hr01"/>
-      <point x="467" y="985"/>
-      <point x="559" y="985" type="curve" smooth="yes"/>
-      <point x="650" y="985"/>
-      <point x="715" y="1083"/>
-      <point x="715" y="1167" type="curve" smooth="yes"/>
-      <point x="715" y="1251"/>
-      <point x="654" y="1352"/>
-      <point x="561" y="1352" type="curve" smooth="yes"/>
-      <point x="461" y="1352"/>
-      <point x="402" y="1249"/>
+      <point x="424" y="1144" type="curve" smooth="yes"/>
+      <point x="424" y="1068"/>
+      <point x="481" y="989"/>
+      <point x="562" y="989" type="curve" smooth="yes"/>
+      <point x="640" y="989"/>
+      <point x="696" y="1078"/>
+      <point x="696" y="1149" type="curve" smooth="yes"/>
+      <point x="696" y="1220"/>
+      <point x="644" y="1311"/>
+      <point x="564" y="1311" type="curve" smooth="yes"/>
+      <point x="478" y="1311"/>
+      <point x="424" y="1222"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5c610911898a30e6b3f1d7903353adf8529a4a6afbbf00779338385303322702357d151911af2f3a389e6c5c67b2cb2e2574d8a28b98086ce708adcaed796cd3</string>
+    <string>a7562f913d0c0891eaa44cbf71013772acb315546761d721c53cfe31060160df68e07da584e5307c8a2d37db21c8ba7e4c53a7b5cbd778fab874af4722dfacae</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 1139 21</string>
           <string>hstem 1142 337</string>
           <string>hstem 1483 -20</string>
           <string>vstem 393 333</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 1139 21</string>
-          <string>hstem 1483 -20</string>
-          <string>vstem 393 333</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

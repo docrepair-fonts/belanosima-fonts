@@ -3,12 +3,12 @@
   <advance width="1257"/>
   <unicode hex="00FB"/>
   <anchor x="628" y="0" name="bottom"/>
-  <anchor x="1444" y="22" name="ogonek"/>
-  <anchor x="1132" y="1017" name="topright"/>
-  <anchor x="636" y="1546" name="top"/>
+  <anchor x="1450" y="22" name="ogonek"/>
+  <anchor x="1125" y="1019" name="topright"/>
+  <anchor x="636" y="1581" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="circumflexcomb" xOffset="271" yOffset="84"/>
+    <component base="circumflexcomb" xOffset="283" yOffset="128"/>
   </outline>
   <lib>
   <dict>

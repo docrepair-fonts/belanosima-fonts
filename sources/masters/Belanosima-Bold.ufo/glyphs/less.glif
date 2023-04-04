@@ -4,63 +4,69 @@
   <unicode hex="003C"/>
   <outline>
     <contour>
-      <point x="778" y="957" type="curve" smooth="yes"/>
-      <point x="778" y="982"/>
-      <point x="776" y="1035"/>
-      <point x="740" y="1035" type="curve" smooth="yes"/>
-      <point x="718" y="1035"/>
-      <point x="696" y="1020"/>
-      <point x="680" y="1008" type="curve" smooth="yes"/>
-      <point x="560" y="921"/>
-      <point x="442" y="831"/>
-      <point x="323" y="742" type="curve" smooth="yes"/>
-      <point x="248" y="686"/>
-      <point x="171" y="632"/>
-      <point x="98" y="574" type="curve" smooth="yes"/>
-      <point x="83" y="562"/>
-      <point x="65" y="546"/>
-      <point x="65" y="525" type="curve" smooth="yes"/>
-      <point x="65" y="504"/>
-      <point x="83" y="488"/>
-      <point x="98" y="476" type="curve" smooth="yes"/>
-      <point x="178" y="413"/>
-      <point x="262" y="354"/>
-      <point x="343" y="294" type="curve" smooth="yes"/>
-      <point x="457" y="210"/>
-      <point x="569" y="124"/>
-      <point x="684" y="43" type="curve"/>
-      <point x="700" y="31"/>
-      <point x="723" y="16"/>
-      <point x="744" y="16" type="curve" smooth="yes"/>
-      <point x="780" y="16"/>
-      <point x="781" y="68"/>
-      <point x="781" y="93" type="curve" smooth="yes"/>
-      <point x="781" y="200"/>
-      <point x="778" y="308"/>
-      <point x="778" y="415" type="curve" smooth="yes"/>
-      <point x="778" y="436"/>
-      <point x="824" y="490"/>
-      <point x="824" y="525" type="curve" smooth="yes"/>
-      <point x="824" y="565"/>
-      <point x="780" y="602"/>
-      <point x="777" y="637" type="curve" smooth="yes"/>
-      <point x="775" y="665"/>
-      <point x="777" y="696"/>
-      <point x="777" y="725" type="curve" smooth="yes"/>
-      <point x="777" y="802"/>
-      <point x="778" y="880"/>
+      <point x="814" y="1000" type="curve" smooth="yes"/>
+      <point x="814" y="1016"/>
+      <point x="813" y="1046"/>
+      <point x="790" y="1046" type="curve" smooth="yes"/>
+      <point x="775" y="1046"/>
+      <point x="764" y="1037"/>
+      <point x="752" y="1029" type="curve"/>
+      <point x="624" y="938"/>
+      <point x="496" y="847"/>
+      <point x="369" y="755" type="curve" smooth="yes"/>
+      <point x="277" y="688"/>
+      <point x="181" y="626"/>
+      <point x="92" y="555" type="curve" smooth="yes"/>
+      <point x="82" y="547"/>
+      <point x="70" y="537"/>
+      <point x="70" y="522" type="curve" smooth="yes"/>
+      <point x="70" y="508"/>
+      <point x="82" y="497"/>
+      <point x="92" y="489" type="curve" smooth="yes"/>
+      <point x="177" y="418"/>
+      <point x="278" y="356"/>
+      <point x="369" y="291" type="curve" smooth="yes"/>
+      <point x="499" y="198"/>
+      <point x="629" y="106"/>
+      <point x="761" y="16" type="curve" smooth="yes"/>
+      <point x="773" y="8"/>
+      <point x="785" y="-1"/>
+      <point x="800" y="-1" type="curve" smooth="yes"/>
+      <point x="823" y="-1"/>
+      <point x="824" y="29"/>
+      <point x="824" y="46" type="curve" smooth="yes"/>
+      <point x="824" y="100"/>
+      <point x="820" y="155"/>
+      <point x="819" y="209" type="curve" smooth="yes"/>
+      <point x="818" y="244"/>
+      <point x="820" y="280"/>
+      <point x="816" y="315" type="curve"/>
+      <point x="815" y="329"/>
+      <point x="813" y="333"/>
+      <point x="804" y="344" type="curve" smooth="yes"/>
+      <point x="781" y="372"/>
+      <point x="639" y="502"/>
+      <point x="639" y="524" type="curve" smooth="yes"/>
+      <point x="639" y="544"/>
+      <point x="780" y="675"/>
+      <point x="802" y="704" type="curve"/>
+      <point x="809" y="714"/>
+      <point x="812" y="720"/>
+      <point x="812" y="732" type="curve"/>
+      <point x="816" y="821"/>
+      <point x="814" y="911"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>caf98f2e239bca5588d8bd37b46198050b60610560e5b48555e38ca016601471dce95d25adff388aee5f0f37f12820cd9f4421a9c90d574116b6e7cc4e9807c0</string>
+    <string>b4976d7694da8b3e64d959924b2b27acd5ed5f1ed63ad64d04f2288e93f9c6286baeece46ac840b6763e081975b175647475a4c34a5fe7190b1c542dc65a42d0</string>
     <key>hintSetList</key>
     <array>
       <dict>

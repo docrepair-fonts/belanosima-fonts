@@ -1,48 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ringcomb.case" format="2">
   <advance width="266"/>
-  <anchor x="285" y="947" name="_top"/>
-  <anchor x="285" y="1472" name="top"/>
+  <anchor x="285" y="936" name="_top"/>
+  <anchor x="285" y="1443" name="top"/>
   <outline>
     <contour>
-      <point x="27" y="1205" type="curve" smooth="yes"/>
-      <point x="27" y="1055"/>
-      <point x="145" y="955"/>
-      <point x="291" y="955" type="curve" smooth="yes"/>
-      <point x="439" y="955"/>
-      <point x="557" y="1053"/>
-      <point x="557" y="1206" type="curve" smooth="yes"/>
-      <point x="557" y="1359"/>
-      <point x="439" y="1445"/>
-      <point x="294" y="1445" type="curve" smooth="yes"/>
-      <point x="149" y="1445"/>
-      <point x="27" y="1359"/>
+      <point x="28" y="1197" type="curve" smooth="yes"/>
+      <point x="28" y="1051"/>
+      <point x="155" y="965"/>
+      <point x="291" y="965" type="curve" smooth="yes"/>
+      <point x="425" y="965"/>
+      <point x="557" y="1048"/>
+      <point x="557" y="1194" type="curve" smooth="yes"/>
+      <point x="557" y="1346"/>
+      <point x="433" y="1421"/>
+      <point x="293" y="1421" type="curve" smooth="yes"/>
+      <point x="156" y="1421"/>
+      <point x="28" y="1347"/>
     </contour>
     <contour>
-      <point x="201" y="1197" type="curve" smooth="yes"/>
-      <point x="201" y="1256"/>
-      <point x="239" y="1281"/>
-      <point x="294" y="1281" type="curve" smooth="yes"/>
-      <point x="347" y="1281"/>
-      <point x="386" y="1259"/>
-      <point x="386" y="1201" type="curve" smooth="yes"/>
-      <point x="386" y="1146"/>
-      <point x="347" y="1115"/>
-      <point x="294" y="1115" type="curve" smooth="yes"/>
-      <point x="243" y="1115"/>
-      <point x="201" y="1142"/>
+      <point x="201" y="1190" type="curve" smooth="yes"/>
+      <point x="201" y="1247"/>
+      <point x="237" y="1278"/>
+      <point x="293" y="1278" type="curve" smooth="yes"/>
+      <point x="348" y="1278"/>
+      <point x="386" y="1250"/>
+      <point x="386" y="1193" type="curve" smooth="yes"/>
+      <point x="386" y="1138"/>
+      <point x="346" y="1105"/>
+      <point x="293" y="1105" type="curve" smooth="yes"/>
+      <point x="241" y="1105"/>
+      <point x="201" y="1135"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.schriftgestaltung.Glyphs.originalWidth</key>
   <real>289</real>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>dbff9053b935f5e6887034ba05e9208e01f5427fa5138dfcf6092488e560c80760998cd35e8ca18caa4caec4c7e6fc153e767af604d704bb4ce140b1c622bc36</string>
+    <string>a9dd217c609ebee5b95174520e73a0b6c10df90d4374288aadfd98d1bfcbccdd149ba94dc9122e7b176b7bb3ca72713fff4bd146a530662096a5db901798959e</string>
     <key>hintSetList</key>
     <array>
       <dict>

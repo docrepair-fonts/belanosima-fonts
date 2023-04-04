@@ -2,41 +2,43 @@
 <glyph name="strokeshortcomb" format="2">
   <advance width="377"/>
   <unicode hex="0335"/>
-  <anchor x="301" y="914" name="_center"/>
+  <anchor x="333" y="831" name="_center"/>
   <outline>
     <contour>
-      <point x="-48" y="1032" type="curve" smooth="yes"/>
-      <point x="-48" y="945"/>
-      <point x="-47" y="858"/>
-      <point x="-47" y="771" type="curve" smooth="yes"/>
-      <point x="-47" y="730"/>
-      <point x="-27" y="710"/>
-      <point x="14" y="710" type="curve" smooth="yes"/>
-      <point x="558" y="710" type="line" smooth="yes"/>
-      <point x="599" y="710"/>
-      <point x="619" y="730"/>
-      <point x="619" y="771" type="curve" smooth="yes"/>
-      <point x="619" y="858"/>
-      <point x="621" y="945"/>
-      <point x="621" y="1032" type="curve" smooth="yes"/>
-      <point x="621" y="1074"/>
-      <point x="601" y="1094"/>
-      <point x="559" y="1094" type="curve" smooth="yes"/>
-      <point x="14" y="1094" type="line" smooth="yes"/>
-      <point x="-28" y="1094"/>
-      <point x="-48" y="1074"/>
+      <point x="-17" y="935" type="curve" smooth="yes"/>
+      <point x="-17" y="859"/>
+      <point x="-17" y="784"/>
+      <point x="-16" y="708" type="curve" smooth="yes"/>
+      <point x="-16" y="681"/>
+      <point x="-4" y="667"/>
+      <point x="24" y="667" type="curve" smooth="yes"/>
+      <point x="611" y="667" type="line" smooth="yes"/>
+      <point x="639" y="667"/>
+      <point x="651" y="681"/>
+      <point x="651" y="708" type="curve" smooth="yes"/>
+      <point x="652" y="784"/>
+      <point x="653" y="859"/>
+      <point x="653" y="935" type="curve" smooth="yes"/>
+      <point x="653" y="961"/>
+      <point x="639" y="976"/>
+      <point x="613" y="976" type="curve" smooth="yes"/>
+      <point x="23" y="976" type="line" smooth="yes"/>
+      <point x="-3" y="976"/>
+      <point x="-17" y="961"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.schriftgestaltung.Glyphs.originalWidth</key>
   <real>355</real>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a472c490b2c8a829facf0927ece539fa5a4beaa3371ea72842a88a98a808adc03e68513ace96011b721460112d8a142fd60f7fe9e911441e6ddd7cdb64787666</string>
+    <string>c12b1940835bb1809b62b4ce521a968d4f00168e97f03848ad397afd2b9dbdc3ce8e16e4b0d3243fc467834c1ad31ab6f280af876a53839ddc3a158628cba12b</string>
     <key>hintSetList</key>
     <array>
       <dict>

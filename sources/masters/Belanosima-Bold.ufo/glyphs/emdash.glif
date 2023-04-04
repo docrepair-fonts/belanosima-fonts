@@ -4,26 +4,26 @@
   <unicode hex="2014"/>
   <outline>
     <contour>
-      <point x="173" y="406" type="curve" smooth="yes"/>
-      <point x="173" y="364"/>
-      <point x="193" y="343"/>
-      <point x="235" y="343" type="curve" smooth="yes"/>
-      <point x="1681" y="343" type="line" smooth="yes"/>
-      <point x="1723" y="343"/>
-      <point x="1743" y="364"/>
-      <point x="1743" y="406" type="curve" smooth="yes"/>
-      <point x="1743" y="488"/>
-      <point x="1740" y="569"/>
-      <point x="1740" y="651" type="curve" smooth="yes"/>
-      <point x="1740" y="692"/>
-      <point x="1720" y="712"/>
-      <point x="1679" y="712" type="curve" smooth="yes"/>
-      <point x="237" y="712" type="line" smooth="yes"/>
-      <point x="196" y="712"/>
-      <point x="176" y="692"/>
-      <point x="176" y="651" type="curve" smooth="yes"/>
-      <point x="176" y="569"/>
-      <point x="173" y="488"/>
+      <point x="183" y="396" type="curve" smooth="yes"/>
+      <point x="183" y="368"/>
+      <point x="194" y="354"/>
+      <point x="223" y="354" type="curve" smooth="yes"/>
+      <point x="1691" y="354" type="line" smooth="yes"/>
+      <point x="1720" y="354"/>
+      <point x="1731" y="368"/>
+      <point x="1731" y="396" type="curve" smooth="yes"/>
+      <point x="1731" y="464"/>
+      <point x="1728" y="534"/>
+      <point x="1726" y="602" type="curve" smooth="yes"/>
+      <point x="1725" y="629"/>
+      <point x="1714" y="643"/>
+      <point x="1686" y="643" type="curve" smooth="yes"/>
+      <point x="229" y="643" type="line" smooth="yes"/>
+      <point x="201" y="643"/>
+      <point x="190" y="629"/>
+      <point x="189" y="602" type="curve" smooth="yes"/>
+      <point x="187" y="533"/>
+      <point x="183" y="465"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e0c85de301fe7fb2cbaed8ca9b7eab065b9634e7db7faa7c9d57c2569dd13be7c84c3f6763d93daa2a0559c59efcb6508e9ace3c1a575bc27515c8d72625d7b3</string>
+    <string>54f99eaeef65a7d3243506a3c33ae2957e21989d196a9bc6e7047eef2e27de29382f8739133f29f1a0d958fe5e1425169edaeba12c0f1c0508ee6149e893a705</string>
     <key>hintSetList</key>
     <array>
       <dict>

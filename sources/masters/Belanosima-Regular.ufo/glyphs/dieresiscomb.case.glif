@@ -7,42 +7,44 @@
     <contour>
       <point x="90" y="1420" type="curve" smooth="yes"/>
       <point x="90" y="1350"/>
-      <point x="146" y="1289"/>
-      <point x="217" y="1289" type="curve" smooth="yes"/>
+      <point x="147" y="1289"/>
+      <point x="218" y="1289" type="curve" smooth="yes"/>
       <point x="287" y="1289"/>
-      <point x="355" y="1353"/>
-      <point x="355" y="1424" type="curve" smooth="yes"/>
-      <point x="355" y="1494"/>
-      <point x="295" y="1555"/>
-      <point x="224" y="1555" type="curve" smooth="yes"/>
-      <point x="151" y="1555"/>
-      <point x="90" y="1492"/>
+      <point x="355" y="1351"/>
+      <point x="355" y="1422" type="curve" smooth="yes"/>
+      <point x="355" y="1493"/>
+      <point x="293" y="1554"/>
+      <point x="222" y="1554" type="curve" smooth="yes"/>
+      <point x="150" y="1554"/>
+      <point x="90" y="1491"/>
     </contour>
     <contour>
-      <point x="542" y="1410" type="curve" smooth="yes"/>
-      <point x="542" y="1342"/>
-      <point x="601" y="1289"/>
-      <point x="668" y="1289" type="curve" smooth="yes"/>
-      <point x="741" y="1289"/>
-      <point x="808" y="1361"/>
-      <point x="808" y="1433" type="curve" smooth="yes"/>
-      <point x="808" y="1499"/>
-      <point x="748" y="1555"/>
-      <point x="683" y="1555" type="curve" smooth="yes"/>
-      <point x="604" y="1555"/>
-      <point x="542" y="1487"/>
+      <point x="542" y="1415" type="curve" smooth="yes"/>
+      <point x="542" y="1344"/>
+      <point x="602" y="1289"/>
+      <point x="672" y="1289" type="curve" smooth="yes"/>
+      <point x="742" y="1289"/>
+      <point x="808" y="1356"/>
+      <point x="808" y="1426" type="curve" smooth="yes"/>
+      <point x="808" y="1494"/>
+      <point x="747" y="1554"/>
+      <point x="679" y="1554" type="curve" smooth="yes"/>
+      <point x="604" y="1554"/>
+      <point x="542" y="1489"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.schriftgestaltung.Glyphs.originalWidth</key>
   <real>461</real>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4217f2d936185f3d95e298cfc6cc03e10191efcba9dedb38f0cee84da0d4bee812d664a52b28bc6911af9543fcf6f1b7fd775714a291d4c30edf4a6d48a09fc4</string>
+    <string>b49639c564c1f25ea1026e69d60967348d2f1846a2a883acd2a2e8fbc26dce2ccb192a4626e85aa5ec8c552dcda93a005014d6d7d3623f712c1eb1b986f7c491</string>
     <key>hintSetList</key>
     <array>
       <dict>

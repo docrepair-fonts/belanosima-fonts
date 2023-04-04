@@ -4,29 +4,27 @@
   <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="342" y="1554" type="curve" smooth="yes"/>
-      <point x="139" y="1554" type="line" smooth="yes"/>
-      <point x="103" y="1554"/>
-      <point x="88" y="1537"/>
-      <point x="88" y="1502" type="curve" smooth="yes"/>
-      <point x="88" y="1358"/>
-      <point x="90" y="1213"/>
-      <point x="90" y="1069" type="curve" smooth="yes"/>
-      <point x="90" y="1035"/>
-      <point x="107" y="1018"/>
-      <point x="141" y="1018" type="curve" smooth="yes"/>
-      <point x="329" y="1018" type="line" smooth="yes"/>
-      <point x="364" y="1018"/>
-      <point x="377" y="1035"/>
-      <point x="380" y="1068" type="curve" smooth="yes"/>
-      <point x="385" y="1133"/>
-      <point x="384" y="1199"/>
-      <point x="386" y="1264" type="curve" smooth="yes"/>
-      <point x="388" y="1343"/>
-      <point x="393" y="1422"/>
-      <point x="393" y="1501" type="curve" smooth="yes"/>
-      <point x="393" y="1537"/>
-      <point x="379" y="1554"/>
+      <point x="371" y="1549" type="curve" smooth="yes"/>
+      <point x="109" y="1549" type="line" smooth="yes"/>
+      <point x="73" y="1549"/>
+      <point x="58" y="1532"/>
+      <point x="58" y="1497" type="curve" smooth="yes"/>
+      <point x="61" y="1065" type="line" smooth="yes"/>
+      <point x="61" y="1031"/>
+      <point x="78" y="1014"/>
+      <point x="112" y="1014" type="curve" smooth="yes"/>
+      <point x="357" y="1014" type="line" smooth="yes"/>
+      <point x="391" y="1014"/>
+      <point x="406" y="1031"/>
+      <point x="408" y="1064" type="curve" smooth="yes"/>
+      <point x="412" y="1138"/>
+      <point x="412" y="1213"/>
+      <point x="415" y="1287" type="curve" smooth="yes"/>
+      <point x="417" y="1356"/>
+      <point x="422" y="1427"/>
+      <point x="422" y="1496" type="curve" smooth="yes"/>
+      <point x="422" y="1532"/>
+      <point x="408" y="1549"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +34,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a135009e4f1cbf3e8ac50af5c7773d54c496fad82c62f4e3a6e04304897cc17e91c049a02d115d008f7ebc99c13c55ddf4e51b983e926a2758433f9cd52c3f4f</string>
+    <string>3c9bda5eca06b315b1aec7fbb2dd0140b6f764c35fa0fe7b783b692808976b5f8bfb818fd6eb2717a43a2e9dca53e2c70c5fce42a1eb6d8f85ee901bfef3c59b</string>
     <key>hintSetList</key>
     <array>
       <dict>

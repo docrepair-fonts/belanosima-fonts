@@ -2,13 +2,13 @@
 <glyph name="udieresis" format="2">
   <advance width="1194"/>
   <unicode hex="00FC"/>
-  <anchor x="597" y="0" name="bottom"/>
-  <anchor x="1336" y="22" name="ogonek"/>
-  <anchor x="1091" y="971" name="topright"/>
-  <anchor x="603" y="1422" name="top"/>
+  <anchor x="598" y="0" name="bottom"/>
+  <anchor x="1337" y="22" name="ogonek"/>
+  <anchor x="1090" y="973" name="topright"/>
+  <anchor x="603" y="1410" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="dieresiscomb" xOffset="107" yOffset="70"/>
+    <component base="dieresiscomb" xOffset="107" yOffset="99"/>
   </outline>
   <lib>
   <dict>

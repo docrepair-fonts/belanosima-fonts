@@ -2,52 +2,60 @@
 <glyph name="caroncomb" format="2">
   <advance width="448"/>
   <unicode hex="030C"/>
-  <anchor x="288" y="998" name="_top"/>
-  <anchor x="296" y="1462" name="top"/>
+  <anchor x="300" y="957" name="_top"/>
+  <anchor x="302" y="1453" name="top"/>
   <outline>
     <contour>
-      <point x="290" y="1530" type="curve" smooth="yes"/>
-      <point x="77" y="1530" type="line" smooth="yes"/>
-      <point x="54" y="1530"/>
-      <point x="-9" y="1529"/>
-      <point x="-9" y="1494" type="curve" smooth="yes"/>
-      <point x="-9" y="1470"/>
-      <point x="17" y="1442"/>
-      <point x="32" y="1426" type="curve" smooth="yes"/>
-      <point x="118" y="1334"/>
-      <point x="203" y="1241"/>
-      <point x="290" y="1151" type="curve" smooth="yes"/>
-      <point x="302" y="1138"/>
-      <point x="317" y="1126"/>
-      <point x="336" y="1126" type="curve" smooth="yes"/>
-      <point x="354" y="1126"/>
-      <point x="369" y="1139"/>
-      <point x="381" y="1152" type="curve" smooth="yes"/>
-      <point x="633" y="1426" type="line" smooth="yes"/>
-      <point x="648" y="1442"/>
-      <point x="673" y="1470"/>
-      <point x="673" y="1494" type="curve" smooth="yes"/>
-      <point x="673" y="1529"/>
-      <point x="611" y="1530"/>
-      <point x="588" y="1530" type="curve" smooth="yes"/>
-      <point x="368" y="1530" type="line" smooth="yes"/>
-      <point x="344" y="1530"/>
-      <point x="347" y="1498"/>
-      <point x="332" y="1498" type="curve" smooth="yes"/>
-      <point x="319" y="1498"/>
-      <point x="316" y="1530"/>
+      <point x="200" y="1472" type="curve" smooth="yes"/>
+      <point x="26" y="1472" type="line" smooth="yes"/>
+      <point x="11" y="1472"/>
+      <point x="-27" y="1471"/>
+      <point x="-27" y="1448" type="curve" smooth="yes"/>
+      <point x="-27" y="1447"/>
+      <point x="-26" y="1445"/>
+      <point x="-26" y="1444" type="curve"/>
+      <point x="-22" y="1427"/>
+      <point x="-9" y="1414"/>
+      <point x="2" y="1402" type="curve" smooth="yes"/>
+      <point x="100" y="1299"/>
+      <point x="199" y="1196"/>
+      <point x="299" y="1096" type="curve" smooth="yes"/>
+      <point x="306" y="1089"/>
+      <point x="318" y="1080"/>
+      <point x="329" y="1080" type="curve" smooth="yes"/>
+      <point x="340" y="1080"/>
+      <point x="350" y="1089"/>
+      <point x="357" y="1096" type="curve" smooth="yes"/>
+      <point x="654" y="1402" type="line"/>
+      <point x="664" y="1413"/>
+      <point x="684" y="1432"/>
+      <point x="684" y="1448" type="curve" smooth="yes"/>
+      <point x="684" y="1471"/>
+      <point x="647" y="1472"/>
+      <point x="632" y="1472" type="curve" smooth="yes"/>
+      <point x="452" y="1472" type="line" smooth="yes"/>
+      <point x="440" y="1472"/>
+      <point x="429" y="1467"/>
+      <point x="421" y="1458" type="curve"/>
+      <point x="406" y="1442"/>
+      <point x="350" y="1365"/>
+      <point x="332" y="1365" type="curve" smooth="yes"/>
+      <point x="300" y="1365"/>
+      <point x="256" y="1472"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.schriftgestaltung.Glyphs.originalWidth</key>
   <real>371</real>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c404aa60f73753ce306998a75a61e3ef086d7dd2f9339ebe81cac4aaa730a6be8b442365880c915b14caec47485716bd8c748864a88a12dc0791e80a13460466</string>
+    <string>aabf5322edcd3a812e5952894962823660739c8ff7f66a9fa5c7a3e79a3d6293ff8f0341c8a2426b7e844eee370e2a6a7b1f50caf030082369f4b549d97500ca</string>
     <key>hintSetList</key>
     <array>
       <dict>

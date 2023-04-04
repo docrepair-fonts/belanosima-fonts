@@ -3,10 +3,10 @@
   <advance width="1577"/>
   <unicode hex="00D1"/>
   <anchor x="789" y="0" name="bottom"/>
-  <anchor x="725" y="1977" name="top"/>
+  <anchor x="725" y="1926" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="tildecomb.case" xOffset="404" yOffset="-417"/>
+    <component base="tildecomb.case" xOffset="324" yOffset="-265"/>
   </outline>
   <lib>
   <dict>
