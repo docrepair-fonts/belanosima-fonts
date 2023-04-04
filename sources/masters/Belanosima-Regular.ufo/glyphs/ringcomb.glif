@@ -6,32 +6,32 @@
   <anchor x="320" y="1358" name="top"/>
   <outline>
     <contour>
-      <point x="66" y="1174" type="curve" smooth="yes"/>
-      <point x="66" y="1044"/>
-      <point x="172" y="968"/>
-      <point x="295" y="968" type="curve" smooth="yes"/>
-      <point x="414" y="968"/>
-      <point x="522" y="1047"/>
-      <point x="522" y="1173" type="curve" smooth="yes"/>
-      <point x="522" y="1304"/>
-      <point x="420" y="1377"/>
+      <point x="66" y="1173" type="curve" smooth="yes"/>
+      <point x="66" y="1047"/>
+      <point x="166" y="968"/>
+      <point x="287" y="968" type="curve" smooth="yes"/>
+      <point x="416" y="968"/>
+      <point x="517" y="1051"/>
+      <point x="517" y="1184" type="curve" smooth="yes"/>
+      <point x="517" y="1309"/>
+      <point x="411" y="1377"/>
       <point x="296" y="1377" type="curve" smooth="yes"/>
-      <point x="175" y="1377"/>
+      <point x="174" y="1377"/>
       <point x="66" y="1304"/>
     </contour>
     <contour>
-      <point x="195" y="1169" type="curve" smooth="yes"/>
-      <point x="195" y="1230"/>
-      <point x="243" y="1261"/>
-      <point x="299" y="1261" type="curve" smooth="yes"/>
-      <point x="354" y="1261"/>
-      <point x="395" y="1230"/>
-      <point x="395" y="1172" type="curve" smooth="yes"/>
-      <point x="395" y="1116"/>
-      <point x="352" y="1079"/>
-      <point x="298" y="1079" type="curve" smooth="yes"/>
-      <point x="245" y="1079"/>
-      <point x="195" y="1112"/>
+      <point x="194" y="1168" type="curve" smooth="yes"/>
+      <point x="194" y="1228"/>
+      <point x="247" y="1261"/>
+      <point x="302" y="1261" type="curve" smooth="yes"/>
+      <point x="358" y="1261"/>
+      <point x="392" y="1227"/>
+      <point x="392" y="1171" type="curve" smooth="yes"/>
+      <point x="392" y="1118"/>
+      <point x="354" y="1078"/>
+      <point x="301" y="1078" type="curve" smooth="yes"/>
+      <point x="249" y="1078"/>
+      <point x="194" y="1112"/>
     </contour>
   </outline>
   <lib>
@@ -43,7 +43,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>320f7f31e6c1f2bb8146af0a2191bd6b61b80b566c3e71331f525d029ca22eb11523a07afe2a9da5027a9c12e617e7a67055a9d4fc0406a7f041fddab87c9c8c</string>
+    <string>8a15fc43c5813a7848c554d72e92cfc9c6b2d4b8778ab482cd4fd0b18286bedb42db3be4b9b9540942b2bcaf6824da927047f96d97a4bfb66bebaa29b0bf5322</string>
     <key>hintSetList</key>
     <array>
       <dict>

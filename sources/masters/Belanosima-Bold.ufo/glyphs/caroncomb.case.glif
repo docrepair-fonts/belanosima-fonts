@@ -8,35 +8,35 @@
       <point x="312" y="1488" type="curve" smooth="yes"/>
       <point x="99" y="1488" type="line" smooth="yes"/>
       <point x="76" y="1488"/>
-      <point x="13" y="1487"/>
-      <point x="13" y="1452" type="curve" smooth="yes"/>
-      <point x="13" y="1428"/>
-      <point x="39" y="1400"/>
-      <point x="54" y="1384" type="curve" smooth="yes"/>
-      <point x="140" y="1293"/>
-      <point x="225" y="1201"/>
+      <point x="14" y="1487"/>
+      <point x="14" y="1452" type="curve" smooth="yes"/>
+      <point x="14" y="1428"/>
+      <point x="40" y="1399"/>
+      <point x="55" y="1383" type="curve" smooth="yes"/>
+      <point x="140" y="1292"/>
+      <point x="226" y="1201"/>
       <point x="312" y="1111" type="curve" smooth="yes"/>
-      <point x="324" y="1099"/>
-      <point x="340" y="1087"/>
-      <point x="358" y="1087" type="curve" smooth="yes"/>
-      <point x="376" y="1087"/>
-      <point x="391" y="1099"/>
-      <point x="403" y="1112" type="curve" smooth="yes"/>
-      <point x="487" y="1202"/>
-      <point x="570" y="1293"/>
+      <point x="324" y="1098"/>
+      <point x="339" y="1086"/>
+      <point x="358" y="1086" type="curve" smooth="yes"/>
+      <point x="376" y="1086"/>
+      <point x="391" y="1098"/>
+      <point x="403" y="1111" type="curve" smooth="yes"/>
+      <point x="487" y="1201"/>
+      <point x="569" y="1293"/>
       <point x="653" y="1384" type="curve" smooth="yes"/>
       <point x="668" y="1400"/>
-      <point x="693" y="1429"/>
+      <point x="693" y="1428"/>
       <point x="693" y="1452" type="curve" smooth="yes"/>
       <point x="693" y="1487"/>
       <point x="632" y="1488"/>
       <point x="608" y="1488" type="curve" smooth="yes"/>
-      <point x="391" y="1488" type="line" smooth="yes"/>
-      <point x="367" y="1488"/>
-      <point x="369" y="1455"/>
+      <point x="390" y="1488" type="line" smooth="yes"/>
+      <point x="368" y="1488"/>
+      <point x="370" y="1455"/>
       <point x="354" y="1455" type="curve" smooth="yes"/>
-      <point x="339" y="1455"/>
-      <point x="338" y="1488"/>
+      <point x="340" y="1455"/>
+      <point x="339" y="1488"/>
     </contour>
   </outline>
   <lib>
@@ -50,7 +50,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>1f49d97c4edf21c20a05a2d08e018d39eb6996cde04672f36543a2c236036cc84b813a53d45f434b096ddb0981371f223042dd257014275bb33eee49c754b7cf</string>
+    <string>1bb92c9340831bf1b035aa23e74a4d6537911a35160d47a05856d2a1c67ce49c20ff19280eaccf2a5becef95101e4b804d2c379c651b5fd9491f94b79f369043</string>
     <key>hintSetList</key>
     <array>
       <dict>

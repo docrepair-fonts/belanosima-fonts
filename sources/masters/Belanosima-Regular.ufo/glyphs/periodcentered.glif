@@ -5,18 +5,18 @@
   <unicode hex="00B7"/>
   <outline>
     <contour>
-      <point x="77" y="606" type="curve" smooth="yes"/>
-      <point x="77" y="529"/>
-      <point x="148" y="474"/>
-      <point x="221" y="474" type="curve" smooth="yes"/>
-      <point x="295" y="474"/>
-      <point x="359" y="530"/>
-      <point x="359" y="606" type="curve" smooth="yes"/>
-      <point x="359" y="680"/>
-      <point x="292" y="739"/>
-      <point x="220" y="739" type="curve" smooth="yes"/>
-      <point x="149" y="739"/>
-      <point x="77" y="679"/>
+      <point x="80" y="606" type="curve" smooth="yes"/>
+      <point x="80" y="529"/>
+      <point x="156" y="474"/>
+      <point x="229" y="474" type="curve" smooth="yes"/>
+      <point x="303" y="474"/>
+      <point x="357" y="533"/>
+      <point x="357" y="606" type="curve" smooth="yes"/>
+      <point x="357" y="679"/>
+      <point x="300" y="739"/>
+      <point x="227" y="739" type="curve" smooth="yes"/>
+      <point x="158" y="739"/>
+      <point x="80" y="679"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +36,7 @@
           </dict>
         </array>
         <key>id</key>
-        <string>w440m77,606c77,529 148,474 221,474c295,474 359,530 359,606c359,680 292,739 220,739c149,739 77,679 77,606</string>
+        <string>w440m80,606c80,529 156,474 229,474c303,474 357,533 357,606c357,679 300,739 227,739c158,739 80,679 80,606</string>
       </dict>
     </dict>
   </lib>

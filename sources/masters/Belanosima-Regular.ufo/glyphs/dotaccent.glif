@@ -4,18 +4,18 @@
   <unicode hex="02D9"/>
   <outline>
     <contour>
-      <point x="207" y="1246" type="curve" smooth="yes"/>
-      <point x="207" y="1168"/>
-      <point x="288" y="1115"/>
-      <point x="360" y="1115" type="curve" smooth="yes"/>
+      <point x="208" y="1250" type="curve" smooth="yes"/>
+      <point x="208" y="1173"/>
+      <point x="289" y="1115"/>
+      <point x="361" y="1115" type="curve" smooth="yes"/>
       <point x="432" y="1115"/>
-      <point x="509" y="1168"/>
-      <point x="509" y="1245" type="curve" smooth="yes"/>
-      <point x="509" y="1325"/>
-      <point x="432" y="1375"/>
-      <point x="358" y="1375" type="curve" smooth="yes"/>
+      <point x="508" y="1168"/>
+      <point x="508" y="1244" type="curve" smooth="yes"/>
+      <point x="508" y="1326"/>
+      <point x="430" y="1375"/>
+      <point x="355" y="1375" type="curve" smooth="yes"/>
       <point x="286" y="1375"/>
-      <point x="207" y="1324"/>
+      <point x="208" y="1325"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w715m207,1246c207,1168 288,1115 360,1115c432,1115 509,1168 509,1245c509,1325 432,1375 358,1375c286,1375 207,1324 207,1246</string>
+    <string>w715m208,1250c208,1173 289,1115 361,1115c432,1115 508,1168 508,1244c508,1326 430,1375 355,1375c286,1375 208,1325 208,1250</string>
     <key>hintSetList</key>
     <array>
       <dict>

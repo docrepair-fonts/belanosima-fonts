@@ -7,10 +7,13 @@
       <point x="941" y="1202" type="curve" smooth="yes"/>
       <point x="115" y="1202" type="line" smooth="yes"/>
       <point x="73" y="1202"/>
-      <point x="54" y="1182"/>
+      <point x="54" y="1181"/>
       <point x="54" y="1140" type="curve" smooth="yes"/>
-      <point x="54" y="1060"/>
-      <point x="52" y="976"/>
+      <point x="54" y="1086"/>
+      <point x="55" y="1031"/>
+      <point x="56" y="977" type="curve" smooth="yes"/>
+      <point x="56" y="950"/>
+      <point x="54" y="923"/>
       <point x="56" y="896" type="curve" smooth="yes"/>
       <point x="58" y="855"/>
       <point x="75" y="835"/>
@@ -36,16 +39,16 @@
       <point x="571" y="13"/>
       <point x="582" y="39" type="curve" smooth="yes"/>
       <point x="601" y="85"/>
-      <point x="618" y="133"/>
-      <point x="636" y="179" type="curve" smooth="yes"/>
+      <point x="618" y="132"/>
+      <point x="636" y="178" type="curve" smooth="yes"/>
       <point x="755" y="492" type="line" smooth="yes"/>
       <point x="835" y="701"/>
-      <point x="918" y="909"/>
-      <point x="998" y="1118" type="curve" smooth="yes"/>
-      <point x="1003" y="1131"/>
-      <point x="1007" y="1144"/>
-      <point x="1007" y="1158" type="curve" smooth="yes"/>
-      <point x="1007" y="1196"/>
+      <point x="918" y="908"/>
+      <point x="998" y="1117" type="curve" smooth="yes"/>
+      <point x="1003" y="1130"/>
+      <point x="1007" y="1143"/>
+      <point x="1007" y="1157" type="curve" smooth="yes"/>
+      <point x="1007" y="1195"/>
       <point x="971" y="1202"/>
     </contour>
   </outline>
@@ -58,7 +61,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6ee065f759290fe0675466beaa117d0fbd0272c4e1bce000675bb0630b6c37d269423b7b9a3c04b8f6ea4cd8a42edf911cbc3ec42f066256a7f5fb842af3c4c3</string>
+    <string>0ea5f82667ca2d93bd433187fe6fc964ef6f61304a1b80a148b9b36b27870e8524ee1da27db30038415562c1a149171afc0232f3fcc6305127d12e76bbfeeb79</string>
     <key>hintSetList</key>
     <array>
       <dict>

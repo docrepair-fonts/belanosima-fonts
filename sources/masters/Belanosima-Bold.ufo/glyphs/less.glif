@@ -4,51 +4,51 @@
   <unicode hex="003C"/>
   <outline>
     <contour>
-      <point x="778" y="958" type="curve" smooth="yes"/>
-      <point x="778" y="983"/>
-      <point x="776" y="1036"/>
-      <point x="740" y="1036" type="curve" smooth="yes"/>
-      <point x="719" y="1036"/>
+      <point x="778" y="957" type="curve" smooth="yes"/>
+      <point x="778" y="982"/>
+      <point x="776" y="1035"/>
+      <point x="740" y="1035" type="curve" smooth="yes"/>
+      <point x="718" y="1035"/>
       <point x="696" y="1020"/>
       <point x="680" y="1008" type="curve" smooth="yes"/>
-      <point x="573" y="930"/>
-      <point x="467" y="849"/>
-      <point x="361" y="770" type="curve" smooth="yes"/>
-      <point x="274" y="705"/>
-      <point x="185" y="642"/>
-      <point x="99" y="575" type="curve" smooth="yes"/>
-      <point x="84" y="563"/>
+      <point x="560" y="921"/>
+      <point x="442" y="831"/>
+      <point x="323" y="742" type="curve" smooth="yes"/>
+      <point x="248" y="686"/>
+      <point x="171" y="632"/>
+      <point x="98" y="574" type="curve" smooth="yes"/>
+      <point x="83" y="562"/>
       <point x="65" y="546"/>
       <point x="65" y="525" type="curve" smooth="yes"/>
       <point x="65" y="504"/>
-      <point x="84" y="488"/>
-      <point x="99" y="476" type="curve" smooth="yes"/>
-      <point x="185" y="409"/>
-      <point x="274" y="345"/>
-      <point x="362" y="280" type="curve" smooth="yes"/>
-      <point x="469" y="201"/>
-      <point x="576" y="120"/>
-      <point x="684" y="43" type="curve" smooth="yes"/>
+      <point x="83" y="488"/>
+      <point x="98" y="476" type="curve" smooth="yes"/>
+      <point x="178" y="413"/>
+      <point x="262" y="354"/>
+      <point x="343" y="294" type="curve" smooth="yes"/>
+      <point x="457" y="210"/>
+      <point x="569" y="124"/>
+      <point x="684" y="43" type="curve"/>
       <point x="700" y="31"/>
       <point x="723" y="16"/>
       <point x="744" y="16" type="curve" smooth="yes"/>
-      <point x="779" y="16"/>
-      <point x="782" y="64"/>
-      <point x="782" y="89" type="curve" smooth="yes"/>
-      <point x="782" y="197"/>
-      <point x="778" y="307"/>
+      <point x="780" y="16"/>
+      <point x="781" y="68"/>
+      <point x="781" y="93" type="curve" smooth="yes"/>
+      <point x="781" y="200"/>
+      <point x="778" y="308"/>
       <point x="778" y="415" type="curve" smooth="yes"/>
       <point x="778" y="436"/>
-      <point x="824" y="492"/>
+      <point x="824" y="490"/>
       <point x="824" y="525" type="curve" smooth="yes"/>
-      <point x="824" y="564"/>
+      <point x="824" y="565"/>
       <point x="780" y="602"/>
       <point x="777" y="637" type="curve" smooth="yes"/>
-      <point x="775" y="663"/>
-      <point x="777" y="691"/>
-      <point x="777" y="717" type="curve" smooth="yes"/>
-      <point x="777" y="797"/>
-      <point x="778" y="878"/>
+      <point x="775" y="665"/>
+      <point x="777" y="696"/>
+      <point x="777" y="725" type="curve" smooth="yes"/>
+      <point x="777" y="802"/>
+      <point x="778" y="880"/>
     </contour>
   </outline>
   <lib>
@@ -60,7 +60,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>1223efb82e2cb524859a0a12512304f814e113f3e5129cec887d134be304b55de77e7dfeb49b7e7ac35fd47b1dfbfbcb3194a2d8f0939edf0a424e7a25a546b3</string>
+    <string>caf98f2e239bca5588d8bd37b46198050b60610560e5b48555e38ca016601471dce95d25adff388aee5f0f37f12820cd9f4421a9c90d574116b6e7cc4e9807c0</string>
     <key>hintSetList</key>
     <array>
       <dict>

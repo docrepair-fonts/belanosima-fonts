@@ -7,16 +7,16 @@
     <contour>
       <point x="107" y="614" type="curve" smooth="yes"/>
       <point x="107" y="515"/>
-      <point x="183" y="433"/>
-      <point x="284" y="433" type="curve" smooth="yes"/>
-      <point x="384" y="433"/>
+      <point x="184" y="432"/>
+      <point x="284" y="432" type="curve" smooth="yes"/>
+      <point x="384" y="432"/>
       <point x="465" y="514"/>
       <point x="465" y="614" type="curve" smooth="yes"/>
-      <point x="465" y="709"/>
+      <point x="465" y="708"/>
       <point x="381" y="798"/>
       <point x="285" y="798" type="curve" smooth="yes"/>
       <point x="188" y="798"/>
-      <point x="107" y="709"/>
+      <point x="107" y="710"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +36,7 @@
           </dict>
         </array>
         <key>id</key>
-        <string>w575m107,614c107,515 183,433 284,433c384,433 465,514 465,614c465,709 381,798 285,798c188,798 107,709 107,614</string>
+        <string>w575m107,614c107,515 184,432 284,432c384,432 465,514 465,614c465,708 381,798 285,798c188,798 107,710 107,614</string>
       </dict>
     </dict>
   </lib>

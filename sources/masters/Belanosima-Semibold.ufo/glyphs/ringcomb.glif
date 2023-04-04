@@ -7,13 +7,13 @@
   <outline>
     <contour>
       <point x="60" y="1224" type="curve" smooth="yes"/>
-      <point x="60" y="1072"/>
-      <point x="178" y="975"/>
-      <point x="325" y="975" type="curve" smooth="yes"/>
-      <point x="473" y="975"/>
-      <point x="589" y="1074"/>
-      <point x="589" y="1226" type="curve" smooth="yes"/>
-      <point x="589" y="1379"/>
+      <point x="60" y="1068"/>
+      <point x="180" y="975"/>
+      <point x="329" y="975" type="curve" smooth="yes"/>
+      <point x="475" y="975"/>
+      <point x="589" y="1076"/>
+      <point x="589" y="1225" type="curve" smooth="yes"/>
+      <point x="589" y="1378"/>
       <point x="471" y="1465"/>
       <point x="326" y="1465" type="curve" smooth="yes"/>
       <point x="180" y="1465"/>
@@ -21,17 +21,17 @@
     </contour>
     <contour>
       <point x="233" y="1215" type="curve" smooth="yes"/>
-      <point x="233" y="1276"/>
-      <point x="276" y="1300"/>
-      <point x="332" y="1300" type="curve" smooth="yes"/>
-      <point x="386" y="1300"/>
-      <point x="419" y="1277"/>
-      <point x="419" y="1220" type="curve" smooth="yes"/>
-      <point x="419" y="1165"/>
-      <point x="385" y="1134"/>
-      <point x="331" y="1134" type="curve" smooth="yes"/>
-      <point x="281" y="1134"/>
-      <point x="233" y="1159"/>
+      <point x="233" y="1277"/>
+      <point x="286" y="1300"/>
+      <point x="341" y="1300" type="curve" smooth="yes"/>
+      <point x="398" y="1300"/>
+      <point x="419" y="1274"/>
+      <point x="419" y="1219" type="curve" smooth="yes"/>
+      <point x="419" y="1169"/>
+      <point x="395" y="1133"/>
+      <point x="342" y="1133" type="curve" smooth="yes"/>
+      <point x="293" y="1133"/>
+      <point x="233" y="1158"/>
     </contour>
   </outline>
   <lib>
@@ -43,7 +43,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>22997a295c09943fb551034983d6c9026337074954276858b4fdd13ad7026274da9b36235b7e5ebdbc61beefea6ceb89b8bf8f49dafae32cef998859cc36079f</string>
+    <string>a79d56964d9fa5328537493a20d96cef1f4cb62f682c89e1647801b51a2de9a8ac35d0b60d7daf85f5363a5e8b61ea88bee79ab401091e64fb289041fffea0f7</string>
     <key>hintSetList</key>
     <array>
       <dict>

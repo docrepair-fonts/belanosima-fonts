@@ -13,32 +13,32 @@
       <point x="537" y="1442"/>
       <point x="512" y="1378"/>
       <point x="485" y="1318" type="curve" smooth="yes"/>
-      <point x="431" y="1197"/>
-      <point x="377" y="1075"/>
-      <point x="324" y="953" type="curve" smooth="yes"/>
-      <point x="198" y="664"/>
-      <point x="69" y="376"/>
+      <point x="438" y="1212"/>
+      <point x="391" y="1105"/>
+      <point x="344" y="999" type="curve" smooth="yes"/>
+      <point x="211" y="694"/>
+      <point x="76" y="391"/>
       <point x="-59" y="87" type="curve" smooth="yes"/>
       <point x="-65" y="73"/>
-      <point x="-71" y="58"/>
+      <point x="-71" y="59"/>
       <point x="-71" y="43" type="curve" smooth="yes"/>
-      <point x="-71" y="5"/>
+      <point x="-71" y="6"/>
       <point x="-32" y="0"/>
       <point x="-3" y="0" type="curve" smooth="yes"/>
       <point x="249" y="0" type="line" smooth="yes"/>
-      <point x="278" y="0"/>
-      <point x="292" y="11"/>
+      <point x="277" y="0"/>
+      <point x="293" y="12"/>
       <point x="305" y="36" type="curve" smooth="yes"/>
       <point x="335" y="94"/>
-      <point x="360" y="159"/>
-      <point x="386" y="219" type="curve" smooth="yes"/>
-      <point x="439" y="341"/>
+      <point x="359" y="158"/>
+      <point x="385" y="218" type="curve" smooth="yes"/>
+      <point x="439" y="340"/>
       <point x="492" y="462"/>
       <point x="545" y="584" type="curve" smooth="yes"/>
       <point x="671" y="873"/>
-      <point x="801" y="1160"/>
-      <point x="932" y="1447" type="curve" smooth="yes"/>
-      <point x="938" y="1461"/>
+      <point x="801" y="1161"/>
+      <point x="932" y="1448" type="curve" smooth="yes"/>
+      <point x="938" y="1462"/>
       <point x="945" y="1477"/>
       <point x="945" y="1493" type="curve" smooth="yes"/>
       <point x="945" y="1531"/>
@@ -64,7 +64,7 @@
           </dict>
         </array>
         <key>id</key>
-        <string>8c6319cecc815c7f8eaa46c627c4e096003e5fb3306a1837377d1dbac9f24ce2dd930ad74e52ae5811e81dbe51472337cf11f7148c4f8b249275c822b7422d37</string>
+        <string>b1f37c1dff93cb12e280dc00cde052abb9c01564b379630487d15643fe6d8997a3382ecb1c35ff3745488c8540f75e5f4d9dcdadda7cb5e4ad81dabb2ae5bb23</string>
       </dict>
     </dict>
   </lib>

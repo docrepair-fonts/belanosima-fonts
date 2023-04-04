@@ -5,27 +5,30 @@
   <outline>
     <contour>
       <point x="526" y="1322" type="curve" smooth="yes"/>
-      <point x="340" y="1322" type="line" smooth="yes"/>
-      <point x="324" y="1322"/>
+      <point x="339" y="1322" type="line" smooth="yes"/>
+      <point x="323" y="1322"/>
       <point x="312" y="1316"/>
       <point x="301" y="1304" type="curve" smooth="yes"/>
-      <point x="244" y="1244"/>
-      <point x="190" y="1177"/>
-      <point x="137" y="1114" type="curve" smooth="yes"/>
-      <point x="126" y="1101"/>
-      <point x="110" y="1082"/>
-      <point x="110" y="1064" type="curve" smooth="yes"/>
-      <point x="110" y="1036"/>
+      <point x="245" y="1243"/>
+      <point x="191" y="1178"/>
+      <point x="138" y="1114" type="curve" smooth="yes"/>
+      <point x="127" y="1101"/>
+      <point x="111" y="1082"/>
+      <point x="111" y="1064" type="curve" smooth="yes"/>
+      <point x="111" y="1036"/>
       <point x="155" y="1035"/>
       <point x="174" y="1035" type="curve" smooth="yes"/>
-      <point x="261" y="1035" type="line" smooth="yes"/>
-      <point x="272" y="1035"/>
-      <point x="282" y="1039"/>
-      <point x="291" y="1045" type="curve" smooth="yes"/>
-      <point x="380" y="1103"/>
-      <point x="467" y="1167"/>
-      <point x="555" y="1228" type="curve" smooth="yes"/>
-      <point x="571" y="1239"/>
+      <point x="262" y="1035" type="line" smooth="yes"/>
+      <point x="273" y="1035"/>
+      <point x="282" y="1038"/>
+      <point x="291" y="1044" type="curve" smooth="yes"/>
+      <point x="326" y="1067"/>
+      <point x="359" y="1092"/>
+      <point x="393" y="1116" type="curve" smooth="yes"/>
+      <point x="447" y="1153"/>
+      <point x="502" y="1190"/>
+      <point x="556" y="1228" type="curve" smooth="yes"/>
+      <point x="572" y="1239"/>
       <point x="617" y="1271"/>
       <point x="617" y="1294" type="curve" smooth="yes"/>
       <point x="617" y="1323"/>
@@ -41,7 +44,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b0d92ddf217988b3c6d27b3bad606ac21b203b0c0197f1397b76aca125c03d0d90c474211853bf8494b9624cc64ad15a0dc4a9c21d5d6f7b24bf023d3c4eec43</string>
+    <string>6fc9f0f213dca6ea392dcbd4f8e7ddb3d40ebbd437a6fa987b54aa78c3c76b3044189523adbbd37fc78409b5723c45a1edba81fda909d59a8775dacbec593b1c</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -5,26 +5,26 @@
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="143" y="396" type="curve" smooth="yes"/>
+      <point x="143" y="397" type="curve" smooth="yes"/>
       <point x="143" y="362"/>
       <point x="160" y="345"/>
       <point x="195" y="345" type="curve" smooth="yes"/>
-      <point x="665" y="345" type="line" smooth="yes"/>
-      <point x="700" y="345"/>
+      <point x="664" y="345" type="line" smooth="yes"/>
+      <point x="699" y="345"/>
       <point x="716" y="362"/>
-      <point x="716" y="396" type="curve" smooth="yes"/>
-      <point x="716" y="469"/>
+      <point x="716" y="397" type="curve" smooth="yes"/>
+      <point x="716" y="470"/>
       <point x="715" y="542"/>
       <point x="715" y="615" type="curve" smooth="yes"/>
       <point x="715" y="649"/>
       <point x="698" y="666"/>
       <point x="664" y="666" type="curve" smooth="yes"/>
-      <point x="196" y="666" type="line" smooth="yes"/>
-      <point x="162" y="666"/>
+      <point x="195" y="666" type="line" smooth="yes"/>
+      <point x="161" y="666"/>
       <point x="144" y="649"/>
       <point x="144" y="615" type="curve" smooth="yes"/>
       <point x="144" y="542"/>
-      <point x="143" y="469"/>
+      <point x="143" y="470"/>
     </contour>
   </outline>
   <lib>
@@ -47,7 +47,7 @@
           </dict>
         </array>
         <key>id</key>
-        <string>7b39b98e66f06195e64ff03800bc4f164ff49e8ba86eb5fd9e58de791ad334ebd02cca913cfd5ded6655241f70378e5e5ef03c848f4c69bef0ce016cd7521895</string>
+        <string>dae968fd7a3c5b4a661133bdef03e1893bb95a5c39a5fff1a9d90698df7657beca000872167badc28bd660c22de5b27afd8ff1a2d6fde77ae22b3f4ff1aaf2d8</string>
       </dict>
     </dict>
   </lib>

@@ -6,51 +6,51 @@
   <anchor x="440" y="924" name="top"/>
   <outline>
     <contour>
-      <point x="687" y="228" type="curve" smooth="yes"/>
-      <point x="679" y="228"/>
-      <point x="671" y="225"/>
-      <point x="663" y="222" type="curve" smooth="yes"/>
-      <point x="616" y="204"/>
-      <point x="570" y="191"/>
-      <point x="519" y="191" type="curve" smooth="yes"/>
-      <point x="362" y="191"/>
-      <point x="291" y="305"/>
-      <point x="291" y="450" type="curve" smooth="yes"/>
-      <point x="291" y="600"/>
+      <point x="681" y="229" type="curve" smooth="yes"/>
+      <point x="677" y="229"/>
+      <point x="664" y="224"/>
+      <point x="659" y="222" type="curve" smooth="yes"/>
+      <point x="617" y="204"/>
+      <point x="569" y="192"/>
+      <point x="523" y="192" type="curve" smooth="yes"/>
+      <point x="363" y="192"/>
+      <point x="293" y="300"/>
+      <point x="293" y="450" type="curve" smooth="yes"/>
+      <point x="293" y="598"/>
       <point x="368" y="717"/>
-      <point x="529" y="717" type="curve" smooth="yes"/>
-      <point x="576" y="717"/>
-      <point x="619" y="707"/>
-      <point x="662" y="691" type="curve" smooth="yes"/>
-      <point x="670" y="688"/>
-      <point x="677" y="686"/>
-      <point x="685" y="686" type="curve" smooth="yes"/>
-      <point x="703" y="686"/>
-      <point x="714" y="699"/>
-      <point x="720" y="714" type="curve" smooth="yes"/>
-      <point x="729" y="737"/>
-      <point x="770" y="828"/>
-      <point x="770" y="847" type="curve" smooth="yes"/>
-      <point x="770" y="863"/>
-      <point x="760" y="871"/>
-      <point x="747" y="878" type="curve" smooth="yes"/>
-      <point x="683" y="914"/>
-      <point x="587" y="930"/>
-      <point x="514" y="930" type="curve" smooth="yes"/>
-      <point x="230" y="930"/>
-      <point x="54" y="720"/>
-      <point x="54" y="444" type="curve" smooth="yes"/>
-      <point x="54" y="164"/>
-      <point x="215" y="-18"/>
+      <point x="527" y="717" type="curve" smooth="yes"/>
+      <point x="572" y="717"/>
+      <point x="615" y="706"/>
+      <point x="657" y="691" type="curve" smooth="yes"/>
+      <point x="665" y="688"/>
+      <point x="672" y="686"/>
+      <point x="680" y="686" type="curve" smooth="yes"/>
+      <point x="700" y="686"/>
+      <point x="707" y="698"/>
+      <point x="714" y="714" type="curve" smooth="yes"/>
+      <point x="725" y="739"/>
+      <point x="764" y="828"/>
+      <point x="764" y="851" type="curve" smooth="yes"/>
+      <point x="764" y="864"/>
+      <point x="751" y="873"/>
+      <point x="741" y="878" type="curve"/>
+      <point x="678" y="914"/>
+      <point x="583" y="930"/>
+      <point x="511" y="930" type="curve" smooth="yes"/>
+      <point x="220" y="930"/>
+      <point x="60" y="706"/>
+      <point x="60" y="431" type="curve" smooth="yes"/>
+      <point x="60" y="157"/>
+      <point x="224" y="-18"/>
       <point x="501" y="-18" type="curve" smooth="yes"/>
-      <point x="548" y="-18"/>
-      <point x="770" y="5"/>
-      <point x="770" y="65" type="curve" smooth="yes"/>
-      <point x="770" y="78"/>
-      <point x="729" y="183"/>
-      <point x="721" y="199" type="curve"/>
-      <point x="714" y="215"/>
-      <point x="707" y="228"/>
+      <point x="547" y="-18"/>
+      <point x="768" y="5"/>
+      <point x="768" y="65" type="curve" smooth="yes"/>
+      <point x="768" y="86"/>
+      <point x="729" y="177"/>
+      <point x="718" y="200" type="curve" smooth="yes"/>
+      <point x="710" y="217"/>
+      <point x="701" y="229"/>
     </contour>
   </outline>
   <lib>
@@ -62,7 +62,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9d55c7183f902e0a31aec8c9da733fa46c80f2c7dd2160c545fd91790615d8802e6ecf1c989162e7d8a150e34fb98c4b236d15bae77fa9b8bc996ad525681549</string>
+    <string>720a8ffb2d8ccf5901b2734331dfcccc01c786ac3a3e40ea2f27f0d1865d4871312b4c244a335f3156ecfd217183dbc9567103a8433823ff12fc16ba2381bee2</string>
     <key>hintSetList</key>
     <array>
       <dict>

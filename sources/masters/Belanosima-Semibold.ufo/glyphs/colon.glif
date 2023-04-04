@@ -6,30 +6,30 @@
     <contour>
       <point x="72" y="803" type="curve" smooth="yes"/>
       <point x="72" y="705"/>
-      <point x="150" y="621"/>
+      <point x="151" y="621"/>
       <point x="250" y="621" type="curve" smooth="yes"/>
       <point x="350" y="621"/>
       <point x="431" y="704"/>
       <point x="431" y="803" type="curve" smooth="yes"/>
-      <point x="431" y="899"/>
-      <point x="347" y="987"/>
-      <point x="250" y="987" type="curve" smooth="yes"/>
-      <point x="152" y="987"/>
+      <point x="431" y="898"/>
+      <point x="348" y="987"/>
+      <point x="252" y="987" type="curve" smooth="yes"/>
+      <point x="155" y="987"/>
       <point x="72" y="899"/>
     </contour>
     <contour>
-      <point x="70" y="178" type="curve" smooth="yes"/>
-      <point x="70" y="80"/>
-      <point x="152" y="0"/>
+      <point x="71" y="177" type="curve" smooth="yes"/>
+      <point x="71" y="79"/>
+      <point x="153" y="0"/>
       <point x="250" y="0" type="curve" smooth="yes"/>
-      <point x="347" y="0"/>
-      <point x="433" y="79"/>
-      <point x="433" y="178" type="curve" smooth="yes"/>
-      <point x="433" y="276"/>
-      <point x="350" y="367"/>
-      <point x="250" y="367" type="curve" smooth="yes"/>
+      <point x="351" y="0"/>
+      <point x="433" y="81"/>
+      <point x="433" y="182" type="curve" smooth="yes"/>
+      <point x="433" y="278"/>
+      <point x="349" y="367"/>
+      <point x="252" y="367" type="curve" smooth="yes"/>
       <point x="149" y="367"/>
-      <point x="70" y="276"/>
+      <point x="71" y="276"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e19576408b0d2a028a32a75924887fe250491361c05245e4b7bf4bdd8e8cddcb2d2a7214cd46575aaa2bd6e14443d17cc3558109718704df4c5e92475b1275d6</string>
+    <string>a6bfd5f192f1bbb047870f05c7f77547c42e9d32b2b1767d4cfe04a108f0413f3fa3aa445cd0a1a6b748535be1a224c15542e1f974e1ed9ef392749be9448d10</string>
     <key>hintSetList</key>
     <array>
       <dict>
