@@ -5,24 +5,24 @@
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="62" y="1170" type="curve" smooth="yes"/>
-      <point x="64" y="1018" type="line" smooth="yes"/>
-      <point x="64" y="992"/>
-      <point x="80" y="979"/>
-      <point x="105" y="979" type="curve" smooth="yes"/>
-      <point x="694" y="979" type="line" smooth="yes"/>
-      <point x="720" y="979"/>
-      <point x="735" y="993"/>
-      <point x="735" y="1019" type="curve" smooth="yes"/>
+      <point x="62" y="1168" type="curve" smooth="yes"/>
+      <point x="64" y="1019" type="line" smooth="yes"/>
+      <point x="64" y="993"/>
+      <point x="80" y="980"/>
+      <point x="105" y="980" type="curve" smooth="yes"/>
+      <point x="694" y="980" type="line" smooth="yes"/>
+      <point x="720" y="980"/>
+      <point x="735" y="994"/>
+      <point x="735" y="1020" type="curve" smooth="yes"/>
       <point x="735" y="1069"/>
-      <point x="737" y="1120"/>
-      <point x="737" y="1170" type="curve" smooth="yes"/>
-      <point x="737" y="1197"/>
-      <point x="726" y="1211"/>
-      <point x="698" y="1211" type="curve" smooth="yes"/>
-      <point x="101" y="1211" type="line" smooth="yes"/>
-      <point x="73" y="1211"/>
-      <point x="62" y="1197"/>
+      <point x="737" y="1119"/>
+      <point x="737" y="1168" type="curve" smooth="yes"/>
+      <point x="737" y="1195"/>
+      <point x="726" y="1209"/>
+      <point x="698" y="1209" type="curve" smooth="yes"/>
+      <point x="101" y="1209" type="line" smooth="yes"/>
+      <point x="73" y="1209"/>
+      <point x="62" y="1195"/>
     </contour>
   </outline>
   <lib>
@@ -46,7 +46,7 @@
           </dict>
         </array>
         <key>id</key>
-        <string>0133b313a2c7a12a1ef2e0809caec53fd0000c90a0667bf71836c298b5a92c82b2baccf44dba717fd46616bf1636a344343099f3c55c97988c75589b0b072b64</string>
+        <string>1604b088e16ffedfaab5f459146804517079b4039566da953acc80e5954a31da83955c183c1d70895c33f0d83203b387466dd314964c5a218066adc7dace6c3a</string>
       </dict>
     </dict>
   </lib>

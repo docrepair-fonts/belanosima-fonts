@@ -7,17 +7,17 @@
   <outline>
     <contour>
       <point x="56" y="1250" type="curve" smooth="yes"/>
-      <point x="56" y="1176"/>
+      <point x="56" y="1175"/>
       <point x="124" y="1116"/>
-      <point x="196" y="1116" type="curve" smooth="yes"/>
-      <point x="265" y="1116"/>
+      <point x="197" y="1116" type="curve" smooth="yes"/>
+      <point x="266" y="1116"/>
       <point x="335" y="1173"/>
       <point x="335" y="1245" type="curve" smooth="yes"/>
       <point x="335" y="1320"/>
       <point x="266" y="1375"/>
       <point x="194" y="1375" type="curve" smooth="yes"/>
-      <point x="126" y="1375"/>
-      <point x="56" y="1322"/>
+      <point x="125" y="1375"/>
+      <point x="56" y="1323"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w79m56,1250c56,1176 124,1116 196,1116c265,1116 335,1173 335,1245c335,1320 266,1375 194,1375c126,1375 56,1322 56,1250</string>
+    <string>w79m56,1250c56,1175 124,1116 197,1116c266,1116 335,1173 335,1245c335,1320 266,1375 194,1375c125,1375 56,1323 56,1250</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -17,16 +17,16 @@
       <point x="636" y="1384" type="curve" smooth="yes"/>
       <point x="552" y="1384" type="line" smooth="yes"/>
       <point x="525" y="1384"/>
-      <point x="511" y="1372"/>
+      <point x="510" y="1372"/>
       <point x="504" y="1346" type="curve" smooth="yes"/>
-      <point x="488" y="1285"/>
-      <point x="482" y="1193"/>
-      <point x="398" y="1193" type="curve" smooth="yes"/>
+      <point x="488" y="1281"/>
+      <point x="483" y="1193"/>
+      <point x="395" y="1193" type="curve" smooth="yes"/>
       <point x="304" y="1193"/>
-      <point x="280" y="1269"/>
-      <point x="256" y="1344" type="curve" smooth="yes"/>
-      <point x="248" y="1370"/>
-      <point x="233" y="1384"/>
+      <point x="278" y="1271"/>
+      <point x="255" y="1344" type="curve" smooth="yes"/>
+      <point x="247" y="1370"/>
+      <point x="234" y="1384"/>
       <point x="205" y="1384" type="curve" smooth="yes"/>
       <point x="122" y="1384" type="line" smooth="yes"/>
       <point x="94" y="1384"/>
@@ -48,7 +48,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e6f0d2200034d428159d4750ae827f663217c8aa16921838114b8113b89d9a432b046162f82735e425c75aa25f4b6d66e5f4701b1dada7ebee014f5153a73c56</string>
+    <string>5498288d3f96b3fd5d02d737743ef68a28cfbc9347cc9ffe16b637937301759e4672993b35a203786b118ce613687df72c89f8386b257053daddfa2fc143cbd9</string>
     <key>hintSetList</key>
     <array>
       <dict>

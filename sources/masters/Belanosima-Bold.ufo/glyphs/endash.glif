@@ -4,26 +4,26 @@
   <unicode hex="2013"/>
   <outline>
     <contour>
-      <point x="216" y="395" type="curve" smooth="yes"/>
-      <point x="216" y="368"/>
-      <point x="229" y="354"/>
-      <point x="256" y="354" type="curve" smooth="yes"/>
-      <point x="1103" y="354" type="line" smooth="yes"/>
-      <point x="1132" y="354"/>
-      <point x="1143" y="368"/>
-      <point x="1143" y="396" type="curve" smooth="yes"/>
-      <point x="1143" y="464"/>
-      <point x="1144" y="534"/>
-      <point x="1140" y="602" type="curve" smooth="yes"/>
-      <point x="1138" y="630"/>
-      <point x="1128" y="643"/>
-      <point x="1099" y="643" type="curve" smooth="yes"/>
-      <point x="260" y="643" type="line" smooth="yes"/>
-      <point x="231" y="643"/>
-      <point x="221" y="630"/>
-      <point x="219" y="602" type="curve" smooth="yes"/>
-      <point x="214" y="534"/>
-      <point x="216" y="464"/>
+      <point x="216" y="396" type="curve" smooth="yes"/>
+      <point x="216" y="369"/>
+      <point x="229" y="355"/>
+      <point x="256" y="355" type="curve" smooth="yes"/>
+      <point x="1103" y="355" type="line" smooth="yes"/>
+      <point x="1132" y="355"/>
+      <point x="1143" y="369"/>
+      <point x="1143" y="397" type="curve" smooth="yes"/>
+      <point x="1143" y="463"/>
+      <point x="1144" y="532"/>
+      <point x="1140" y="598" type="curve" smooth="yes"/>
+      <point x="1138" y="626"/>
+      <point x="1128" y="639"/>
+      <point x="1099" y="639" type="curve" smooth="yes"/>
+      <point x="260" y="639" type="line" smooth="yes"/>
+      <point x="231" y="639"/>
+      <point x="221" y="626"/>
+      <point x="219" y="598" type="curve" smooth="yes"/>
+      <point x="215" y="531"/>
+      <point x="216" y="463"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2700ee68a4e2539d52f0487aad8cf5236fc9163dae2ed655c7e7935a8b822dccf9b99f024f2c6d52e3bbe59bda1429a28179795b0ceda8d8484c4508c7003d7a</string>
+    <string>38e868fd01d134243a9d01be72899cab94b38e296e0cfa1e4171a8888ac0a8547417ad2a2b2b1a6c59e3196e8c3858d7882f155d3b4d9894fe992291c57eeb45</string>
     <key>hintSetList</key>
     <array>
       <dict>

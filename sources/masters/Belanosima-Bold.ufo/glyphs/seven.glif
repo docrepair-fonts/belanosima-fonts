@@ -4,49 +4,49 @@
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="967" y="1211" type="curve" smooth="yes"/>
-      <point x="93" y="1211" type="line" smooth="yes"/>
-      <point x="64" y="1211"/>
-      <point x="54" y="1198"/>
-      <point x="54" y="1170" type="curve" smooth="yes"/>
-      <point x="54" y="1088"/>
-      <point x="57" y="1006"/>
-      <point x="59" y="924" type="curve" smooth="yes"/>
-      <point x="60" y="881"/>
-      <point x="58" y="837"/>
-      <point x="61" y="794" type="curve" smooth="yes"/>
-      <point x="63" y="767"/>
-      <point x="72" y="753"/>
-      <point x="101" y="753" type="curve" smooth="yes"/>
-      <point x="386" y="753" type="line" smooth="yes"/>
-      <point x="390" y="753"/>
-      <point x="398" y="750"/>
-      <point x="398" y="745" type="curve" smooth="yes"/>
-      <point x="398" y="744"/>
-      <point x="397" y="737"/>
-      <point x="397" y="736" type="curve"/>
-      <point x="362" y="630"/>
-      <point x="92" y="67"/>
-      <point x="92" y="29" type="curve" smooth="yes"/>
-      <point x="92" y="4"/>
-      <point x="116" y="0"/>
-      <point x="136" y="0" type="curve" smooth="yes"/>
-      <point x="534" y="0" type="line" smooth="yes"/>
-      <point x="555" y="0"/>
-      <point x="563" y="9"/>
-      <point x="572" y="26" type="curve" smooth="yes"/>
-      <point x="595" y="71"/>
-      <point x="609" y="125"/>
-      <point x="627" y="172" type="curve" smooth="yes"/>
-      <point x="723" y="429" type="line" smooth="yes"/>
-      <point x="814" y="672"/>
-      <point x="911" y="913"/>
-      <point x="1004" y="1155" type="curve" smooth="yes"/>
-      <point x="1007" y="1163"/>
-      <point x="1010" y="1172"/>
-      <point x="1010" y="1181" type="curve" smooth="yes"/>
-      <point x="1010" y="1207"/>
-      <point x="988" y="1211"/>
+      <point x="965" y="1202" type="curve" smooth="yes"/>
+      <point x="94" y="1202" type="line" smooth="yes"/>
+      <point x="65" y="1202"/>
+      <point x="54" y="1188"/>
+      <point x="54" y="1160" type="curve" smooth="yes"/>
+      <point x="54" y="1079"/>
+      <point x="59" y="998"/>
+      <point x="59" y="917" type="curve" smooth="yes"/>
+      <point x="59" y="881"/>
+      <point x="50" y="828"/>
+      <point x="101" y="828" type="curve" smooth="yes"/>
+      <point x="476" y="828" type="line" smooth="yes"/>
+      <point x="487" y="828"/>
+      <point x="489" y="826"/>
+      <point x="489" y="816" type="curve"/>
+      <point x="487" y="810" type="line"/>
+      <point x="379" y="555"/>
+      <point x="249" y="310"/>
+      <point x="134" y="59" type="curve" smooth="yes"/>
+      <point x="130" y="50"/>
+      <point x="125" y="38"/>
+      <point x="125" y="28" type="curve" smooth="yes"/>
+      <point x="125" y="4"/>
+      <point x="151" y="0"/>
+      <point x="170" y="0" type="curve" smooth="yes"/>
+      <point x="495" y="0" type="line" smooth="yes"/>
+      <point x="515" y="0"/>
+      <point x="524" y="8"/>
+      <point x="533" y="25" type="curve" smooth="yes"/>
+      <point x="557" y="71"/>
+      <point x="574" y="122"/>
+      <point x="594" y="170" type="curve" smooth="yes"/>
+      <point x="634" y="266"/>
+      <point x="674" y="363"/>
+      <point x="713" y="459" type="curve" smooth="yes"/>
+      <point x="807" y="688"/>
+      <point x="905" y="916"/>
+      <point x="1001" y="1144" type="curve" smooth="yes"/>
+      <point x="1004" y="1151"/>
+      <point x="1009" y="1164"/>
+      <point x="1009" y="1172" type="curve" smooth="yes"/>
+      <point x="1009" y="1198"/>
+      <point x="986" y="1202"/>
     </contour>
   </outline>
   <lib>
@@ -58,7 +58,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>863fc2ab6ab065bee0fcc7de0117bad81e86950018456716e431e17b3c7cf7a306474c07bd588a762636d9241a708327d505dabe5d27649181ee3af76ff1b864</string>
+    <string>97ef40881a49b2af27342b4ab0a31b40ab5fa819154324566f07cc193ad31ef435e7cd6258f7b0d9cca6421e09898dc4ee768e005b1b4d271138dee2553f47dc</string>
     <key>hintSetList</key>
     <array>
       <dict>

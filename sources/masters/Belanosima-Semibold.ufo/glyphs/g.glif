@@ -64,9 +64,9 @@
     </contour>
     <contour>
       <point x="569" y="299" type="curve" smooth="yes"/>
-      <point x="455" y="299"/>
-      <point x="394" y="402"/>
-      <point x="394" y="506" type="curve" smooth="yes"/>
+      <point x="454" y="299"/>
+      <point x="394" y="403"/>
+      <point x="394" y="507" type="curve" smooth="yes"/>
       <point x="394" y="602"/>
       <point x="452" y="710"/>
       <point x="559" y="710" type="curve" smooth="yes"/>
@@ -87,7 +87,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>39dd2b707ddaa27bd6d666c0120f753dfe77d5c97b703583c0cfe8ab999a2b5601acdf232784df3cedd07e8f5541cb252d509cf3dd1690c5b1f8e0688c1f1c19</string>
+    <string>6b9919b717e6944ba497f071bcb26b0031c9cdaa4a7f428a2b6406e05808cd2a4dcee09de356afabed7f6dcfb0f212f099a3b08d0c0ddf640d7e81ae5707c196</string>
     <key>hintSetList</key>
     <array>
       <dict>

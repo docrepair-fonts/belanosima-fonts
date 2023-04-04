@@ -4,19 +4,18 @@
   <unicode hex="2022"/>
   <outline>
     <contour>
-      <point x="103" y="659" type="curve" smooth="yes"/>
-      <point x="103" y="311"/>
-      <point x="402" y="100"/>
-      <point x="729" y="100" type="curve" smooth="yes"/>
-      <point x="1058" y="100"/>
-      <point x="1361" y="307"/>
-      <point x="1361" y="659" type="curve" smooth="yes"/>
-      <point x="1361" y="999"/>
-      <point x="1060" y="1228"/>
-      <point x="737" y="1228" type="curve" smooth="yes"/>
-      <point x="721" y="1228" type="line" smooth="yes"/>
-      <point x="400" y="1228"/>
-      <point x="103" y="995"/>
+      <point x="134" y="659" type="curve" smooth="yes"/>
+      <point x="134" y="328"/>
+      <point x="412" y="114"/>
+      <point x="728" y="114" type="curve" smooth="yes"/>
+      <point x="1046" y="114"/>
+      <point x="1331" y="323"/>
+      <point x="1331" y="659" type="curve" smooth="yes"/>
+      <point x="1331" y="984"/>
+      <point x="1046" y="1213"/>
+      <point x="734" y="1213" type="curve" smooth="yes"/>
+      <point x="417" y="1213"/>
+      <point x="134" y="990"/>
     </contour>
   </outline>
   <lib>
@@ -26,7 +25,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1462m103,659c103,311 402,100 729,100c1058,100 1361,307 1361,659c1361,999 1060,1228 737,1228l721,1228c400,1228 103,995 103,659</string>
+    <string>w1462m134,659c134,328 412,114 728,114c1046,114 1331,323 1331,659c1331,984 1046,1213 734,1213c417,1213 134,990 134,659</string>
     <key>hintSetList</key>
     <array>
       <dict>
