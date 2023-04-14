@@ -1,0 +1,13 @@
+name: Belanosima
+repository_url: https://github.com/docrepair-fonts/belanosima-fonts
+category:
+  - DISPLAY
+  - SANS_SERIF
+designer: The DocRepair Project, Santiago Orozco
+branch: main
+files:
+  OFL.txt: OFL.txt
+  DESCRIPTION.en_us.html: DESCRIPTION.en_us.html
+  fonts/ttf/Belanosima-Regular.ttf: Belanosima-Regular.ttf
+  fonts/ttf/Belanosima-SemiBold.ttf: Belanosima-SemiBold.ttf
+  fonts/ttf/Belanosima-Bold.ttf: Belanosima-Bold.ttf
