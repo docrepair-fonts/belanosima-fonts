@@ -10,5 +10,17 @@
   <anchor x="57" y="1699" name="topleft"/>
   <anchor x="1252" y="1984" name="topright"/>
   <outline>
+    <contour>
+      <point x="101" y="0" type="line"/>
+      <point x="954" y="0" type="line"/>
+      <point x="954" y="1376" type="line"/>
+      <point x="101" y="1376" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="40" type="line"/>
+      <point x="141" y="1336" type="line"/>
+      <point x="914" y="1336" type="line"/>
+      <point x="914" y="40" type="line"/>
+    </contour>
   </outline>
 </glyph>

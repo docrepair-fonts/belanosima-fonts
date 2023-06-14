@@ -1,27 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name=".notdef" format="2">
   <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="101" y="0" type="line"/>
+      <point x="919" y="0" type="line"/>
+      <point x="919" y="1376" type="line"/>
+      <point x="101" y="1376" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="40" type="line"/>
+      <point x="141" y="1336" type="line"/>
+      <point x="879" y="1336" type="line"/>
+      <point x="879" y="40" type="line"/>
+    </contour>
+  </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w1024</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 128</string>
-          <string>hstem 1505 128</string>
-          <string>vstem 128 128</string>
-          <string>vstem 768 128</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 128</string>
+              <string>hstem 1505 128</string>
+              <string>vstem 128 128</string>
+              <string>vstem 768 128</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w1024</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>
